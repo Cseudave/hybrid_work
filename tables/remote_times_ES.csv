@@ -1,0 +1,165 @@
+Ocupaciones,Fecha,Remoto,Preferencia
+Agricultores y Gerentes de Granjas,2019-12-01,47.5,40.0
+Agricultores y Gerentes de Granjas,2020-06-01,42.5,65.0
+Agricultores y Gerentes de Granjas,2020-12-01,38.57142857142857,43.57142857142857
+Agricultores y Gerentes de Granjas,2021-06-01,45.0,42.857142857142854
+Apoyo Clerical y de Oficina,2019-12-01,20.0,45.96153846153846
+Apoyo Clerical y de Oficina,2020-06-01,65.1923076923077,64.23076923076923
+Apoyo Clerical y de Oficina,2020-12-01,65.31914893617021,67.44680851063829
+Apoyo Clerical y de Oficina,2021-06-01,54.680851063829785,73.19148936170212
+Apoyo de Salud y Bienestar,2019-12-01,30.0,47.857142857142854
+Apoyo de Salud y Bienestar,2020-06-01,50.714285714285715,62.142857142857146
+Apoyo de Salud y Bienestar,2020-12-01,37.5,38.125
+Apoyo de Salud y Bienestar,2021-06-01,30.625,38.125
+Asistentes Personales y Secretarias,2019-12-01,23.42105263157895,51.8421052631579
+Asistentes Personales y Secretarias,2020-06-01,72.36842105263158,71.57894736842105
+Asistentes Personales y Secretarias,2020-12-01,57.27272727272727,65.9090909090909
+Asistentes Personales y Secretarias,2021-06-01,53.63636363636363,66.36363636363636
+Asistentes de Preparación de Alimentos,2019-12-01,50.0,50.0
+Asistentes de Preparación de Alimentos,2020-06-01,50.0,50.0
+Asistentes de Preparación de Alimentos,2020-12-01,60.0,50.0
+Asistentes de Preparación de Alimentos,2021-06-01,20.0,60.0
+Asistentes y Vendedores,2019-12-01,21.0,39.5
+Asistentes y Vendedores,2020-06-01,61.5,52.5
+Asistentes y Vendedores,2020-12-01,31.176470588235293,38.23529411764706
+Asistentes y Vendedores,2021-06-01,27.647058823529413,37.05882352941177
+Clerical General,2019-12-01,26.756756756756758,46.21621621621622
+Clerical General,2020-06-01,73.51351351351352,77.83783783783784
+Clerical General,2020-12-01,58.07017543859649,62.10526315789474
+Clerical General,2021-06-01,49.29824561403509,67.54385964912281
+Clerks Numéricos,2019-12-01,18.571428571428573,48.57142857142857
+Clerks Numéricos,2020-06-01,71.42857142857143,84.28571428571429
+Clerks Numéricos,2020-12-01,58.18181818181818,67.27272727272727
+Clerks Numéricos,2021-06-01,46.36363636363637,71.81818181818181
+Clerks de Consultas y Recepcionistas,2019-12-01,22.0,60.0
+Clerks de Consultas y Recepcionistas,2020-06-01,64.0,76.0
+Clerks de Consultas y Recepcionistas,2020-12-01,45.0,47.0
+Clerks de Consultas y Recepcionistas,2021-06-01,44.0,53.0
+Conductores de Carretera y Ferrocarril,2019-12-01,63.333333333333336,36.666666666666664
+Conductores de Carretera y Ferrocarril,2020-06-01,60.0,20.0
+Conductores de Carretera y Ferrocarril,2020-12-01,70.0,70.0
+Conductores de Carretera y Ferrocarril,2021-06-01,50.0,67.5
+Cuidadores y Asistentes,2019-12-01,32.5,35.0
+Cuidadores y Asistentes,2020-06-01,35.0,43.75
+Cuidadores y Asistentes,2020-12-01,43.333333333333336,48.888888888888886
+Cuidadores y Asistentes,2021-06-01,55.55555555555556,47.77777777777778
+"Directores Ejecutivos, Gerentes Generales y Legisladores",2019-12-01,33.8860103626943,43.005181347150256
+"Directores Ejecutivos, Gerentes Generales y Legisladores",2020-06-01,63.47150259067357,60.362694300518136
+"Directores Ejecutivos, Gerentes Generales y Legisladores",2020-12-01,52.82722513089005,51.361256544502616
+"Directores Ejecutivos, Gerentes Generales y Legisladores",2021-06-01,46.33507853403141,53.92670157068063
+Encargados de Almacén,2020-12-01,15.0,5.0
+Encargados de Almacén,2021-06-01,10.0,5.0
+Gerentes Especialistas,2019-12-01,29.236641221374047,43.05343511450382
+Gerentes Especialistas,2020-06-01,70.1526717557252,64.35114503816794
+Gerentes Especialistas,2020-12-01,57.666666666666664,55.208333333333336
+Gerentes Especialistas,2021-06-01,51.833333333333336,57.291666666666664
+"Gerentes de Hospitalidad, Retail y Servicios",2019-12-01,31.818181818181817,41.59090909090909
+"Gerentes de Hospitalidad, Retail y Servicios",2020-06-01,52.95454545454545,57.5
+"Gerentes de Hospitalidad, Retail y Servicios",2020-12-01,32.666666666666664,43.111111111111114
+"Gerentes de Hospitalidad, Retail y Servicios",2021-06-01,32.22222222222222,42.666666666666664
+Gerentes de Oficina y Administradores de Programas,2019-12-01,34.32432432432432,45.13513513513514
+Gerentes de Oficina y Administradores de Programas,2020-06-01,66.75675675675676,68.91891891891892
+Gerentes de Oficina y Administradores de Programas,2020-12-01,49.189189189189186,48.108108108108105
+Gerentes de Oficina y Administradores de Programas,2021-06-01,42.432432432432435,49.45945945945946
+"Granja, Silvicultura y Jardín",2020-12-01,100.0,20.0
+"Granja, Silvicultura y Jardín",2021-06-01,20.0,100.0
+Habilidad en Cuidado Animal y Horticultura,2019-12-01,90.0,90.0
+Habilidad en Cuidado Animal y Horticultura,2020-06-01,100.0,90.0
+Habilidad en Cuidado Animal y Horticultura,2020-12-01,18.0,36.0
+Habilidad en Cuidado Animal y Horticultura,2021-06-01,20.0,36.0
+Hospitalidad,2019-12-01,32.857142857142854,34.285714285714285
+Hospitalidad,2020-06-01,47.142857142857146,52.857142857142854
+Hospitalidad,2020-12-01,38.57142857142857,47.142857142857146
+Hospitalidad,2021-06-01,41.42857142857143,48.57142857142857
+Limpiadores y Lavandería,2019-12-01,100.0,100.0
+Limpiadores y Lavandería,2020-06-01,100.0,100.0
+Limpiadores y Lavandería,2020-12-01,75.0,75.0
+Limpiadores y Lavandería,2021-06-01,90.0,85.0
+Obreros de Construcción y Minería,2019-12-01,30.0,26.666666666666668
+Obreros de Construcción y Minería,2020-06-01,36.666666666666664,36.666666666666664
+Obreros de Construcción y Minería,2020-12-01,62.5,65.0
+Obreros de Construcción y Minería,2021-06-01,67.5,67.5
+Oficios de Alimentación,2019-12-01,10.0,10.0
+Oficios de Alimentación,2020-06-01,10.0,0.0
+Oficios de Alimentación,2020-12-01,32.0,46.0
+Oficios de Alimentación,2021-06-01,38.0,58.0
+Oficios de Automoción e Ingeniería,2019-12-01,50.0,22.5
+Oficios de Automoción e Ingeniería,2020-06-01,27.5,22.5
+Oficios de Automoción e Ingeniería,2020-12-01,54.54545454545455,54.54545454545455
+Oficios de Automoción e Ingeniería,2021-06-01,51.81818181818182,52.72727272727273
+Oficios de Construcción,2019-12-01,31.666666666666668,25.0
+Oficios de Construcción,2020-06-01,30.0,38.333333333333336
+Oficios de Construcción,2020-12-01,54.375,50.0
+Oficios de Construcción,2021-06-01,52.5,53.75
+Oficios de Electrotecnología y Telecomunicaciones,2019-12-01,28.333333333333332,34.166666666666664
+Oficios de Electrotecnología y Telecomunicaciones,2020-06-01,51.666666666666664,38.333333333333336
+Oficios de Electrotecnología y Telecomunicaciones,2020-12-01,35.55555555555556,37.77777777777778
+Oficios de Electrotecnología y Telecomunicaciones,2021-06-01,35.55555555555556,48.888888888888886
+Operadores de Equipos Móviles,2019-12-01,45.0,30.0
+Operadores de Equipos Móviles,2020-06-01,20.0,50.0
+Operadores de Equipos Móviles,2020-12-01,27.5,40.0
+Operadores de Equipos Móviles,2021-06-01,30.0,17.5
+Operadores de Máquinas y Plantas Estacionarias,2019-12-01,35.0,45.0
+Operadores de Máquinas y Plantas Estacionarias,2020-06-01,55.0,27.5
+Operadores de Máquinas y Plantas Estacionarias,2020-12-01,26.666666666666668,40.0
+Operadores de Máquinas y Plantas Estacionarias,2021-06-01,26.666666666666668,26.666666666666668
+Otros Clericales y Administrativos,2019-12-01,24.25531914893617,43.61702127659574
+Otros Clericales y Administrativos,2020-06-01,70.85106382978724,68.51063829787235
+Otros Clericales y Administrativos,2020-12-01,58.69565217391305,63.26086956521739
+Otros Clericales y Administrativos,2021-06-01,46.73913043478261,69.34782608695652
+Otros Obreros,2019-12-01,37.5,42.5
+Otros Obreros,2020-06-01,40.0,42.5
+Otros Obreros,2020-12-01,57.5,75.0
+Otros Obreros,2021-06-01,60.0,65.0
+Otros Técnicos y Oficios,2019-12-01,20.625,48.75
+Otros Técnicos y Oficios,2020-06-01,44.375,59.375
+Otros Técnicos y Oficios,2020-12-01,51.111111111111114,45.55555555555556
+Otros Técnicos y Oficios,2021-06-01,45.55555555555556,52.22222222222222
+Proceso de Fábrica,2019-12-01,10.0,10.0
+Proceso de Fábrica,2020-06-01,0.0,0.0
+Proceso de Fábrica,2020-12-01,63.333333333333336,66.66666666666667
+Proceso de Fábrica,2021-06-01,65.0,63.333333333333336
+"Profesionales Legales, Sociales y de Bienestar",2019-12-01,35.853658536585364,45.853658536585364
+"Profesionales Legales, Sociales y de Bienestar",2020-06-01,77.8048780487805,65.36585365853658
+"Profesionales Legales, Sociales y de Bienestar",2020-12-01,54.78260869565217,58.69565217391305
+"Profesionales Legales, Sociales y de Bienestar",2021-06-01,50.21739130434783,61.08695652173913
+"Profesionales de Diseño, Ingeniería, Ciencia y Transporte",2019-12-01,31.428571428571427,47.04761904761905
+"Profesionales de Diseño, Ingeniería, Ciencia y Transporte",2020-06-01,69.80952380952381,67.9047619047619
+"Profesionales de Diseño, Ingeniería, Ciencia y Transporte",2020-12-01,63.28947368421053,60.921052631578945
+"Profesionales de Diseño, Ingeniería, Ciencia y Transporte",2021-06-01,55.39473684210526,64.21052631578948
+"Profesionales de Negocios, Recursos Humanos y Marketing",2019-12-01,33.445945945945944,40.67567567567568
+"Profesionales de Negocios, Recursos Humanos y Marketing",2020-06-01,77.0945945945946,70.60810810810811
+"Profesionales de Negocios, Recursos Humanos y Marketing",2020-12-01,67.65060240963855,63.91566265060241
+"Profesionales de Negocios, Recursos Humanos y Marketing",2021-06-01,62.2289156626506,67.7710843373494
+Profesionales de Tecnologías de la Información y Comunicación,2019-12-01,31.26050420168067,47.142857142857146
+Profesionales de Tecnologías de la Información y Comunicación,2020-06-01,83.69747899159664,81.00840336134453
+Profesionales de Tecnologías de la Información y Comunicación,2020-12-01,70.27777777777777,70.18518518518519
+Profesionales de Tecnologías de la Información y Comunicación,2021-06-01,68.42592592592592,68.42592592592592
+Profesionales de la Educación,2019-12-01,26.59090909090909,37.38636363636363
+Profesionales de la Educación,2020-06-01,56.47727272727273,62.27272727272727
+Profesionales de la Educación,2020-12-01,35.33980582524272,40.38834951456311
+Profesionales de la Educación,2021-06-01,28.54368932038835,41.650485436893206
+Profesionales de la Salud,2019-12-01,20.232558139534884,29.53488372093023
+Profesionales de la Salud,2020-06-01,47.906976744186046,46.74418604651163
+Profesionales de la Salud,2020-12-01,41.785714285714285,47.5
+Profesionales de la Salud,2021-06-01,36.607142857142854,46.25
+Profesionales de las Artes y los Medios,2019-12-01,36.94444444444444,42.77777777777778
+Profesionales de las Artes y los Medios,2020-06-01,66.38888888888889,64.72222222222223
+Profesionales de las Artes y los Medios,2020-12-01,61.0,55.0
+Profesionales de las Artes y los Medios,2021-06-01,52.333333333333336,60.0
+Representantes y Agentes de Ventas,2019-12-01,33.111111111111114,44.888888888888886
+Representantes y Agentes de Ventas,2020-06-01,66.22222222222223,56.666666666666664
+Representantes y Agentes de Ventas,2020-12-01,71.29032258064517,62.58064516129032
+Representantes y Agentes de Ventas,2021-06-01,69.6774193548387,68.70967741935483
+Servicio de Protección,2019-12-01,32.0,42.0
+Servicio de Protección,2020-06-01,48.0,48.0
+Servicio de Protección,2020-12-01,18.75,28.75
+Servicio de Protección,2021-06-01,23.75,36.25
+Soporte de Ventas,2019-12-01,44.285714285714285,55.714285714285715
+Soporte de Ventas,2020-06-01,66.42857142857143,70.71428571428571
+Soporte de Ventas,2020-12-01,47.333333333333336,54.666666666666664
+Soporte de Ventas,2021-06-01,53.333333333333336,58.0
+"Técnicos de Ingeniería, Tecnologías de la Información y Ciencia",2019-12-01,20.833333333333332,36.666666666666664
+"Técnicos de Ingeniería, Tecnologías de la Información y Ciencia",2020-06-01,55.0,45.416666666666664
+"Técnicos de Ingeniería, Tecnologías de la Información y Ciencia",2020-12-01,55.55555555555556,56.111111111111114
+"Técnicos de Ingeniería, Tecnologías de la Información y Ciencia",2021-06-01,47.77777777777778,62.77777777777778

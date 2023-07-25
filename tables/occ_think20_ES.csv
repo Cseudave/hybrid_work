@@ -1,0 +1,1508 @@
+occupation_d,Mi organización alentó a las personas a trabajar de forma remota (2020),Fue fácil obtener permiso para trabajar de forma remota (2020),Era común que las personas en mi organización trabajaran de forma remota (2020),Fue fácil obtener permiso para trabajar de forma remota (2020),Pude colaborar fácilmente con colegas mientras trabajaba de forma remota (2020),Recomendaría el trabajo remoto a otros (2020),Mi organización alentó a las personas a trabajar de forma remota (2019),Mi organización estaba bien preparada para que yo trabajara de forma remota (2019),Era común que las personas en mi organización trabajaran de forma remota (2019),Fue fácil obtener permiso para trabajar de forma remota (2019),Pude colaborar fácilmente con colegas mientras trabajaba de forma remota (2019),Recomendaría el trabajo remoto a otros (2019),Mi empleador alentaría más trabajo remoto (2021),Mi empleador haría cambios para respaldar el trabajo remoto (2021),Tendría más opciones sobre si trabajo de forma remota (2021)
+Other Clerical and Administrative ,2.0,1.0,1.0,2.0,1.0,2.0,,,,,,,-1,-1,-2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1,1,1
+ICT Professionals,2.0,-1.0,1.0,2.0,2.0,2.0,-2.0,1.0,-1.0,-1.0,1.0,1.0,1,2,1
+Specialist Managers,-1.0,1.0,2.0,-1.0,1.0,2.0,-2.0,1.0,-1.0,-2.0,2.0,1.0,-2,-2,-2
+Sales Support ,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,1,1
+General Clerical ,2.0,1.0,2.0,-2.0,2.0,2.0,,,,,,,1,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1,1,2
+General Clerical ,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0,0,-1
+Specialist Managers,2.0,1.0,2.0,2.0,0.0,0.0,-1.0,1.0,-1.0,0.0,1.0,0.0,1,1,1
+General Clerical ,2.0,2.0,0.0,2.0,2.0,2.0,,,,,,,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,1.0,,,,,,,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1,1,2
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,1
+Personal Assistants and Secretaries,1.0,2.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,2,1,2
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,2.0,,,,,,,1,1,2
+Clerical and Office Support ,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,0,0,0
+"Design, Engineering, Science and Transport Professionals",2.0,0.0,2.0,2.0,-1.0,-1.0,2.0,-1.0,2.0,2.0,-1.0,-2.0,-1,1,2
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Protective Service ,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2,-2,-1
+Specialist Managers,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,2
+Personal Assistants and Secretaries,1.0,1.0,2.0,1.0,1.0,1.0,,,,,,,1,1,1
+"Business, Human Resource and Marketing Professionals",0.0,2.0,2.0,2.0,0.0,2.0,0.0,2.0,2.0,2.0,0.0,2.0,0,0,0
+Other Clerical and Administrative ,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,-1.0,0.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",1.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0,0.0,2.0,0.0,2.0,1,1,1
+"Chief Executives, General Managers and Legislators",-2.0,-2.0,-2.0,-1.0,-2.0,0.0,-2.0,-1.0,-2.0,-1.0,-2.0,1.0,-2,-2,-2
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,2.0,1.0,1.0,-1.0,-1.0,-1.0,-2.0,-1.0,0.0,2,2,2
+Other Clerical and Administrative ,,,,,,,2.0,2.0,2.0,2.0,2.0,2.0,2,0,-2
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0,1,0
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1,0,1
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2,1,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1,1,1
+Specialist Managers,2.0,0.0,1.0,2.0,-2.0,-1.0,2.0,0.0,-1.0,1.0,-1.0,-1.0,1,0,0
+"Chief Executives, General Managers and Legislators",-2.0,1.0,-1.0,-2.0,1.0,1.0,-2.0,1.0,-2.0,-2.0,1.0,0.0,-2,-1,-1
+General Clerical ,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,-1.0,1.0,1.0,1.0,2,2,2
+Personal Assistants and Secretaries,0.0,2.0,1.0,1.0,1.0,1.0,,,,,,,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,-1,1,2
+Education Professionals,2.0,2.0,2.0,2.0,1.0,2.0,,,,,,,-2,-2,-2
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Arts and Media Professionals,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,,,,,,,-1,-1,-1
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1,0,1
+Health and Welfare Support ,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,-1.0,-1.0,0.0,2.0,2,2,2
+Specialist Managers,0.0,-1.0,-1.0,1.0,-1.0,2.0,-1.0,-2.0,0.0,1.0,-1.0,2.0,-1,-1,-2
+Sales Representatives and Agents,1.0,2.0,2.0,2.0,1.0,0.0,-1.0,2.0,1.0,1.0,-1.0,-1.0,-1,1,1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,-1.0,1.0,1.0,1.0,1,0,1
+Health Professionals,1.0,0.0,-1.0,2.0,-1.0,0.0,0.0,1.0,-1.0,1.0,1.0,0.0,-1,0,0
+Specialist Managers,0.0,1.0,2.0,0.0,2.0,2.0,,,,,,,-2,-2,-2
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,0.0,-1.0,0.0,-2.0,1.0,0.0,1.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,2.0,,,,,,,2,2,2
+Clerical and Office Support ,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1,1,1
+Arts and Media Professionals,2.0,2.0,1.0,2.0,-1.0,2.0,0.0,2.0,2.0,2.0,1.0,1.0,2,0,0
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,-2.0,2.0,2.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",-1.0,2.0,0.0,2.0,0.0,0.0,-1.0,2.0,-2.0,2.0,0.0,0.0,-2,-2,2
+"Chief Executives, General Managers and Legislators",2.0,-1.0,2.0,2.0,-2.0,-1.0,1.0,-1.0,1.0,0.0,-1.0,0.0,1,1,0
+Electrotechnology and Telecommunications Trades ,2.0,2.0,1.0,-1.0,2.0,1.0,,,,,,,0,0,0
+ICT Professionals,1.0,2.0,1.0,2.0,1.0,0.0,1.0,2.0,1.0,2.0,1.0,0.0,-1,-1,0
+"Hospitality, Retail and Service Managers",1.0,1.0,2.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0,0,1
+"Design, Engineering, Science and Transport Professionals",-1.0,-1.0,-1.0,-1.0,-2.0,-2.0,1.0,1.0,0.0,1.0,-1.0,0.0,2,2,1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,0,2
+Specialist Managers,1.0,0.0,1.0,2.0,1.0,1.0,-1.0,-1.0,-1.0,-2.0,-1.0,-1.0,2,1,1
+Specialist Managers,1.0,2.0,1.0,2.0,1.0,1.0,,,,,,,1,2,2
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,-1.0,0.0,0,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,0.0,1.0,1.0,2.0,2.0,2.0,0.0,1.0,1.0,2,-2,0
+Education Professionals,2.0,2.0,1.0,2.0,0.0,2.0,-2.0,1.0,0.0,0.0,1.0,-1.0,0,-1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,0.0,,,,,,,1,1,1
+Specialist Managers,2.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1,1,1
+Office Managers and Program Administrators,-1.0,2.0,0.0,1.0,0.0,-1.0,0.0,2.0,0.0,1.0,1.0,-1.0,0,-1,0
+Other Clerical and Administrative ,1.0,1.0,1.0,2.0,1.0,1.0,,,,,,,-1,-1,-1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,1,0,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,0,0,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,1.0,-2.0,1.0,-1.0,1.0,-1.0,1.0,1,2,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,-1,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,-1.0,-1.0,1.0,1.0,-1,0,-1
+Education Professionals,2.0,1.0,1.0,1.0,2.0,2.0,-1.0,-1.0,-2.0,-1.0,1.0,1.0,-1,-1,-1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1,2,2
+Specialist Managers,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0,0,1
+Electrotechnology and Telecommunications Trades ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,-1.0,0.0,1.0,-1.0,2,1,2
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",-2.0,2.0,-2.0,2.0,2.0,0.0,-2.0,2.0,-2.0,2.0,2.0,1.0,2,0,0
+"Chief Executives, General Managers and Legislators",2.0,-1.0,2.0,2.0,0.0,-1.0,0.0,0.0,1.0,1.0,1.0,-1.0,0,1,1
+Health and Welfare Support ,2.0,1.0,2.0,2.0,0.0,1.0,-1.0,-1.0,-1.0,0.0,-1.0,0.0,1,1,0
+Specialist Managers,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0,1,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,0.0,-1.0,2.0,1.0,1,2,1
+Sales Representatives and Agents,2.0,1.0,2.0,2.0,-2.0,-2.0,0.0,-1.0,-2.0,-1.0,-1.0,-2.0,0,1,1
+"Design, Engineering, Science and Transport Professionals",-2.0,-1.0,1.0,-1.0,-1.0,-1.0,-2.0,-1.0,-2.0,-2.0,-1.0,-1.0,-1,-2,-2
+ICT Professionals,0.0,2.0,0.0,2.0,2.0,1.0,,,,,,,0,0,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,2.0,1,2,1
+Sales Representatives and Agents,1.0,2.0,1.0,1.0,1.0,1.0,0.0,2.0,-1.0,1.0,1.0,1.0,-1,0,-1
+Sales Representatives and Agents,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+Education Professionals,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1,1,1
+"Chief Executives, General Managers and Legislators",-2.0,1.0,-2.0,2.0,1.0,0.0,-2.0,1.0,-2.0,1.0,1.0,0.0,-2,-1,0
+Sales Assistants and Salespersons,2.0,2.0,2.0,2.0,1.0,2.0,-1.0,-1.0,1.0,-1.0,1.0,2.0,1,2,1
+Education Professionals,0.0,-1.0,1.0,0.0,1.0,0.0,,,,,,,0,0,0
+Sales Representatives and Agents,0.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,-1.0,1.0,2.0,2.0,1,0,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,1,1
+Education Professionals,2.0,2.0,2.0,2.0,-1.0,0.0,,,,,,,2,2,2
+Personal Assistants and Secretaries,-2.0,1.0,-1.0,1.0,1.0,0.0,-2.0,1.0,-1.0,1.0,1.0,0.0,-1,-1,-1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Health Professionals,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1,0,1
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,2,2
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0,2.0,2.0,0.0,-1,2,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,0.0,-1.0,2.0,0.0,2.0,1.0,0.0,-1,0,1
+"Business, Human Resource and Marketing Professionals",1.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",0.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,0,0,0
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,1.0,0.0,1,2,2
+Sales Representatives and Agents,2.0,2.0,1.0,2.0,1.0,1.0,-2.0,-1.0,-1.0,-1.0,0.0,1.0,1,0,0
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0,1.0,2,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,2.0,2.0,2.0,-2.0,1.0,-2.0,-2.0,0.0,2.0,1,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,2,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,2.0,2.0,1.0,2.0,2.0,2,2,2
+Education Professionals,0.0,2.0,-1.0,2.0,2.0,-1.0,2.0,1.0,2.0,2.0,2.0,-1.0,-1,2,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,0.0,2.0,1.0,0.0,-1.0,1.0,1.0,1.0,1.0,0.0,1,0,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,2.0,0.0,2.0,2.0,2.0,1.0,2.0,1.0,-1,0,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,1,1,2
+"Design, Engineering, Science and Transport Professionals",1.0,0.0,0.0,1.0,1.0,2.0,0.0,-1.0,-1.0,1.0,0.0,1.0,1,1,0
+Specialist Managers,0.0,1.0,1.0,1.0,1.0,0.0,-2.0,-1.0,-1.0,-1.0,1.0,0.0,-1,0,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Hospitality, Retail and Service Managers",-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-1.0,-2.0,-2.0,-1.0,-2.0,-2.0,-2,-2,-2
+Specialist Managers,1.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,1.0,-1,1,-1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,0
+Numerical Clerks,2.0,1.0,2.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1,1,1
+Office Managers and Program Administrators,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1,1,1
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,0.0,2.0,2.0,1.0,1.0,2.0,-1.0,2.0,1.0,1.0,1.0,1,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,1.0,2,2,2
+Personal Assistants and Secretaries,2.0,-1.0,0.0,2.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,1,1,1
+Specialist Managers,2.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,1.0,2.0,-1.0,2.0,-1.0,2.0,1.0,2.0,-1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0,0,0
+Other Labourers,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0,0,0
+"Business, Human Resource and Marketing Professionals",1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,1,1,1
+Arts and Media Professionals,0.0,0.0,-2.0,0.0,0.0,0.0,,,,,,,-2,-2,-2
+Sales Support ,,,,,,,1.0,1.0,1.0,1.0,1.0,1.0,-2,-2,2
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1,2,1
+Sports and Personal Service ,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0,0.0,0,1,0
+"Legal, Social and Welfare Professionals",1.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,1,1,2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,2.0,1.0,1,1,1
+Education Professionals,1.0,2.0,2.0,2.0,2.0,2.0,-2.0,2.0,0.0,-2.0,1.0,2.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",0.0,1.0,0.0,0.0,2.0,-1.0,-1.0,0.0,1.0,-1.0,0.0,-2.0,1,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,1.0,1.0,1.0,-2.0,-2.0,-1.0,-1.0,-1.0,-1.0,2,2,1
+ICT Professionals,2.0,2.0,2.0,2.0,0.0,-2.0,1.0,2.0,1.0,2.0,-2.0,-1.0,1,0,1
+"Hospitality, Retail and Service Managers",1.0,1.0,1.0,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,-1,-1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,0.0,1.0,1.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,1.0,-1.0,1.0,,,,,,,2,1,0
+Health Professionals,0.0,1.0,1.0,-1.0,1.0,0.0,-1.0,0.0,-1.0,0.0,0.0,0.0,0,1,1
+Personal Assistants and Secretaries,1.0,-1.0,-1.0,1.0,1.0,2.0,-2.0,-1.0,-1.0,-1.0,1.0,1.0,-2,-1,-1
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,1.0,-1.0,0.0,1.0,0.0,0.0,1.0,-1.0,1.0,1.0,-1,-1,0
+Construction and Mining Labourers,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1,1,1
+Health Professionals,-1.0,1.0,-1.0,-1.0,0.0,-1.0,1.0,1.0,1.0,1.0,0.0,0.0,-2,0,-2
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,2,1,1
+Education Professionals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,0,0
+Specialist Managers,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,,,,,,,-1,-1,-1
+Clerical and Office Support ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Clerical and Office Support ,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Office Managers and Program Administrators,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Education Professionals,2.0,-1.0,2.0,2.0,1.0,2.0,-1.0,-1.0,-1.0,1.0,1.0,1.0,-2,-2,-2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,0.0,,,,,,,-1,-1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Construction Trades ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Other Clerical and Administrative ,2.0,0.0,0.0,1.0,2.0,2.0,-1.0,-1.0,0.0,-1.0,0.0,1.0,2,2,2
+Hospitality ,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,-1.0,1.0,1.0,2.0,-2,-2,-1
+Other Technicians and Trades ,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,0.0,-1.0,-2,-2,-2
+ICT Professionals,1.0,-1.0,1.0,1.0,1.0,2.0,-1.0,-1.0,-1.0,-2.0,1.0,2.0,1,1,-1
+Other Clerical and Administrative ,1.0,0.0,1.0,1.0,0.0,1.0,-2.0,-1.0,-1.0,-1.0,0.0,0.0,0,0,0
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1,2,2
+Education Professionals,0.0,0.0,2.0,0.0,1.0,2.0,0.0,0.0,2.0,0.0,1.0,2.0,0,0,0
+Arts and Media Professionals,0.0,2.0,2.0,0.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0,1,1
+Health Professionals,0.0,0.0,1.0,2.0,0.0,1.0,1.0,2.0,0.0,1.0,1.0,0.0,0,2,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2,2,2
+Specialist Managers,0.0,2.0,0.0,2.0,2.0,2.0,-1.0,2.0,-1.0,1.0,2.0,2.0,0,0,1
+Sports and Personal Service ,0.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1,1,1
+Numerical Clerks,2.0,2.0,2.0,2.0,-1.0,2.0,,,,,,,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Engineering, ICT and Science Technicians",0.0,2.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,-1,-1,-1
+Education Professionals,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,1,1,1
+Clerical and Office Support ,2.0,-1.0,2.0,2.0,-1.0,1.0,,,,,,,-1,0,-1
+Education Professionals,2.0,2.0,1.0,1.0,1.0,0.0,,,,,,,0,2,-2
+Food Preparation Assistants,0.0,-2.0,1.0,2.0,-1.0,-1.0,0.0,2.0,-1.0,-2.0,1.0,1.0,0,1,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1,2,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,-1.0,-1.0,1.0,1.0,-1.0,1.0,1.0,0.0,1.0,1,0,-1
+Health and Welfare Support ,,,,,,,2.0,2.0,2.0,2.0,2.0,2.0,-1,0,-1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+General Clerical ,2.0,2.0,2.0,2.0,2.0,2.0,-2.0,2.0,1.0,2.0,2.0,2.0,-2,-2,-2
+Other Clerical and Administrative ,2.0,-1.0,-2.0,2.0,2.0,0.0,,,,,,,-1,-1,-2
+Health Professionals,,,,,,,-1.0,0.0,-1.0,1.0,1.0,0.0,-1,-1,-1
+Sales Representatives and Agents,0.0,1.0,-1.0,2.0,1.0,0.0,,,,,,,-2,-1,0
+Education Professionals,1.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,-1,0,0
+Education Professionals,1.0,0.0,-2.0,2.0,1.0,2.0,,,,,,,-2,-2,-2
+Other Clerical and Administrative ,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1,1,0
+Clerical and Office Support ,2.0,2.0,1.0,2.0,1.0,2.0,,,,,,,-1,1,1
+Health Professionals,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0,0,0
+Specialist Managers,-1.0,1.0,-1.0,2.0,2.0,2.0,1.0,1.0,-1.0,-2.0,2.0,2.0,-2,-2,-2
+Education Professionals,-1.0,0.0,-1.0,-2.0,0.0,1.0,,,,,,,-2,-1,-2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,2.0,2.0,1,1,1
+ICT Professionals,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,-2.0,2,2,2
+Numerical Clerks,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,-1.0,-1,0,1
+Specialist Managers,1.0,1.0,-1.0,1.0,1.0,-1.0,,,,,,,-1,-1,0
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,1,2,1
+"Business, Human Resource and Marketing Professionals",0.0,0.0,0.0,-1.0,2.0,0.0,-1.0,0.0,0.0,0.0,2.0,2.0,0,-1,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1,2,2
+General Clerical ,1.0,2.0,1.0,0.0,0.0,-2.0,,,,,,,2,2,1
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,2.0,0.0,1.0,,,,,,,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2,1,1
+Specialist Managers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,-1
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,2.0,0.0,2.0,0.0,1.0,0.0,-1.0,0.0,1.0,1,1,1
+Specialist Managers,0.0,1.0,-1.0,1.0,1.0,1.0,-2.0,1.0,-1.0,-1.0,1.0,1.0,-2,-2,0
+Clerical and Office Support ,0.0,1.0,2.0,0.0,1.0,2.0,-1.0,-1.0,-1.0,-1.0,0.0,1.0,-2,-2,-2
+Health Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,0,0,0
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Electrotechnology and Telecommunications Trades ,1.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.0,2,1,1
+"Legal, Social and Welfare Professionals",1.0,0.0,-1.0,-1.0,-1.0,0.0,-1.0,1.0,1.0,-1.0,0.0,0.0,-2,0,0
+"Hospitality, Retail and Service Managers",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,-1.0,0.0,1.0,1.0,0,1,1
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,1.0,-1.0,1.0,1.0,-2.0,-1.0,-2.0,-1.0,0.0,1.0,0,0,0
+Construction Trades ,0.0,1.0,-1.0,0.0,0.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,0,1,2
+"Hospitality, Retail and Service Managers",1.0,2.0,-1.0,1.0,0.0,1.0,-1.0,-1.0,-2.0,-1.0,0.0,1.0,-1,-1,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,-1.0,-1.0,2.0,1.0,-1.0,1.0,0.0,-1.0,1,0,1
+Specialist Managers,-2.0,-2.0,-2.0,-2.0,-1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-1.0,-1,-1,-1
+Arts and Media Professionals,1.0,2.0,0.0,2.0,1.0,1.0,0.0,2.0,-1.0,2.0,0.0,2.0,1,1,0
+Other Clerical and Administrative ,2.0,2.0,1.0,2.0,0.0,1.0,,,,,,,2,2,0
+"Hospitality, Retail and Service Managers",1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1
+Specialist Managers,0.0,1.0,-1.0,0.0,-1.0,-1.0,1.0,0.0,0.0,-1.0,-1.0,-1.0,0,0,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",1.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+General Clerical ,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,-1.0,1.0,0.0,0.0,1,2,1
+Sales Assistants and Salespersons,2.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1,0,1
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,1.0,2.0,1.0,2.0,0,1,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,1.0,0.0,0,1,1
+Education Professionals,2.0,2.0,2.0,2.0,1.0,1.0,,,,,,,-1,1,2
+Specialist Managers,2.0,2.0,2.0,1.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1,2,1
+General Clerical ,0.0,0.0,-2.0,1.0,-1.0,1.0,,,,,,,-1,-1,-1
+Clerical and Office Support ,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0,0,0
+Personal Assistants and Secretaries,2.0,2.0,0.0,2.0,0.0,1.0,,,,,,,1,1,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,1.0,1,1,2
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,1.0,1.0,-1.0,1.0,-1.0,0.0,1.0,1.0,-2,-1,-2
+"Business, Human Resource and Marketing Professionals",0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,0,1,0
+"Hospitality, Retail and Service Managers",2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,-1.0,0,1,0
+Education Professionals,2.0,1.0,1.0,2.0,0.0,0.0,2.0,1.0,1.0,-1.0,-1.0,0.0,-1,-1,-1
+Sales Representatives and Agents,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2,2,-2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,2.0,1.0,2.0,2,2,2
+Specialist Managers,,,,,,,0.0,1.0,1.0,1.0,-1.0,-1.0,0,1,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,0.0,1.0,1.0,1.0,,,,,,,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,2.0,0,0,1
+Education Professionals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,2.0,2.0,-1.0,1.0,-2.0,-1.0,1.0,2.0,1,1,-1
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+Office Managers and Program Administrators,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,1,1
+Food Trades ,-1.0,0.0,0.0,0.0,-1.0,-1.0,0.0,0.0,1.0,1.0,1.0,-2.0,-1,-1,-1
+Education Professionals,2.0,2.0,2.0,1.0,2.0,2.0,,,,,,,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,2.0,1.0,-1.0,-1,0,0
+"Legal, Social and Welfare Professionals",1.0,1.0,2.0,1.0,1.0,2.0,,,,,,,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,1.0,0.0,1.0,2.0,1,1,1
+Office Managers and Program Administrators,2.0,-2.0,2.0,2.0,-1.0,-2.0,-1.0,-2.0,-1.0,-2.0,-2.0,-2.0,-2,-1,-1
+Specialist Managers,2.0,1.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,1,2,2
+Education Professionals,2.0,1.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0,1.0,1,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,2.0,0.0,1.0,-1.0,-1.0,1.0,1.0,-1,-1,2
+Arts and Media Professionals,-1.0,-1.0,-1.0,-1.0,1.0,1.0,-1.0,-1.0,-1.0,0.0,1.0,1.0,-1,-1,-1
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,2.0,-2.0,1.0,-1.0,-1.0,1.0,2.0,-1,0,0
+Specialist Managers,2.0,1.0,2.0,2.0,0.0,1.0,,,,,,,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2,2,2
+Health Professionals,2.0,1.0,2.0,2.0,2.0,2.0,-1.0,2.0,-2.0,-2.0,2.0,1.0,0,0,1
+Arts and Media Professionals,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,-1.0,1.0,-1.0,1.0,2,1,-1
+"Chief Executives, General Managers and Legislators",,,,,,,1.0,2.0,2.0,1.0,2.0,1.0,0,1,1
+Arts and Media Professionals,0.0,-2.0,-2.0,2.0,-1.0,1.0,,,,,,,-2,0,-1
+"Chief Executives, General Managers and Legislators",,,,,,,0.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,1,2,2
+Specialist Managers,0.0,-1.0,-2.0,1.0,0.0,0.0,-2.0,0.0,-2.0,2.0,1.0,-1.0,-1,0,0
+Specialist Managers,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,0.0,-2.0,0.0,-2.0,-2.0,-2.0,0,1,0
+Personal Assistants and Secretaries,-1.0,2.0,-1.0,0.0,1.0,-2.0,1.0,-2.0,1.0,0.0,-1.0,2.0,-2,-1,1
+ICT Professionals,2.0,2.0,2.0,2.0,0.0,0.0,0.0,2.0,-1.0,2.0,1.0,0.0,1,2,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,2.0,2.0,2.0,-1.0,1.0,-2.0,2.0,1.0,1.0,2,2,2
+Office Managers and Program Administrators,0.0,0.0,0.0,0.0,2.0,2.0,,,,,,,0,0,0
+"Chief Executives, General Managers and Legislators",0.0,-1.0,1.0,1.0,-1.0,0.0,1.0,0.0,2.0,1.0,0.0,-1.0,-2,-2,-2
+Clerical and Office Support ,1.0,-1.0,1.0,-1.0,1.0,1.0,,,,,,,-1,-1,0
+Electrotechnology and Telecommunications Trades ,,,,,,,2.0,2.0,2.0,0.0,0.0,0.0,2,0,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,2,2,2
+Sales Representatives and Agents,-2.0,0.0,-2.0,-1.0,0.0,1.0,-2.0,0.0,-2.0,-1.0,0.0,1.0,-2,-2,-1
+ICT Professionals,2.0,0.0,2.0,1.0,1.0,2.0,-1.0,0.0,0.0,1.0,1.0,2.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,0,1,0
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,-1.0,-2.0,,,,,,,-1,0,-2
+General Clerical ,2.0,-1.0,2.0,2.0,0.0,1.0,0.0,-2.0,1.0,0.0,0.0,1.0,1,1,0
+Specialist Managers,-2.0,-2.0,0.0,-1.0,-1.0,-1.0,,,,,,,0,0,0
+"Hospitality, Retail and Service Managers",1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,0,0,0
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,1.0,1.0,1.0,1.0,1,2,1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,1.0,2.0,1.0,-1.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,-2.0,2.0,2.0,2.0,2.0,2.0,-2.0,2.0,2.0,2.0,0,1,1
+"Hospitality, Retail and Service Managers",,,,,,,0.0,-1.0,-2.0,0.0,-1.0,0.0,-2,-2,-2
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,1.0,1.0,-1.0,1.0,-1.0,1.0,1.0,0,1,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,0.0,1.0,1.0,-2.0,-1.0,-1.0,-1.0,-1.0,1.0,0,0,0
+Arts and Media Professionals,1.0,1.0,1.0,1.0,2.0,1.0,1.0,-1.0,-2.0,0.0,1.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",1.0,2.0,2.0,1.0,0.0,-1.0,0.0,1.0,1.0,1.0,0.0,0.0,1,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,0.0,2.0,1.0,0.0,,,,,,,0,1,2
+Office Managers and Program Administrators,-2.0,-2.0,1.0,-2.0,0.0,0.0,,,,,,,-2,-2,-2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,0.0,1.0,2.0,0.0,1.0,1.0,-1.0,0.0,1.0,0.0,1.0,1,0,0
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,-1.0,-1.0,1.0,1.0,1,1,1
+Specialist Managers,2.0,1.0,2.0,2.0,2.0,2.0,-1.0,1.0,1.0,-2.0,2.0,2.0,1,1,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Education Professionals,2.0,-2.0,2.0,2.0,1.0,1.0,0.0,-2.0,1.0,-1.0,1.0,1.0,1,0,-1
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+Specialist Managers,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,2,2,2
+Education Professionals,2.0,1.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0,0,0
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,-1.0,1.0,2.0,2.0,1,1,2
+"Chief Executives, General Managers and Legislators",-2.0,-2.0,-2.0,0.0,1.0,-1.0,,,,,,,-1,0,-2
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Health and Welfare Support ,0.0,-1.0,1.0,0.0,1.0,1.0,-2.0,0.0,-1.0,-1.0,-1.0,1.0,-1,-2,-2
+"Chief Executives, General Managers and Legislators",0.0,1.0,1.0,1.0,1.0,2.0,,,,,,,1,1,0
+ICT Professionals,1.0,-1.0,2.0,2.0,2.0,2.0,,,,,,,-1,-1,-1
+"Design, Engineering, Science and Transport Professionals",,,,,,,-1.0,-1.0,-2.0,-1.0,-2.0,1.0,-1,1,1
+"Chief Executives, General Managers and Legislators",2.0,1.0,-2.0,2.0,2.0,2.0,,,,,,,1,1,1
+General Clerical ,1.0,2.0,1.0,-1.0,2.0,2.0,,,,,,,0,-1,0
+Specialist Managers,2.0,1.0,1.0,2.0,1.0,1.0,,,,,,,1,1,0
+Specialist Managers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0,0.0,1.0,1,1,1
+Other Labourers,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,-1.0,1.0,-1.0,-1.0,0.0,0.0,-1,-1,0
+Specialist Managers,2.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1,2,2
+Other Technicians and Trades ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,0,0,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",0.0,1.0,0.0,1.0,-1.0,-1.0,-1.0,-1.0,0.0,1.0,1.0,0.0,0,-1,1
+Electrotechnology and Telecommunications Trades ,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1,1,1
+Office Managers and Program Administrators,1.0,2.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1,-1,1
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,-1.0,-1.0,1.0,1.0,0,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,-1.0,1.0,1.0,0.0,-1,-1,-1
+Sales Assistants and Salespersons,0.0,-1.0,0.0,2.0,0.0,-1.0,,,,,,,1,1,1
+Road and Rail Drivers,2.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,2.0,2,1,0
+Electrotechnology and Telecommunications Trades ,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0,1,0
+"Hospitality, Retail and Service Managers",1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,1.0,1.0,0.0,-2.0,1.0,-2.0,1.0,1.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,0,1
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,-1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,2,1,1
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Sales Representatives and Agents,1.0,1.0,2.0,2.0,1.0,1.0,0.0,-2.0,0.0,-2.0,0.0,1.0,0,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,2.0,2.0,-1.0,0.0,-1.0,2.0,2.0,2.0,2,2,2
+Office Managers and Program Administrators,1.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,0.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,1.0,2.0,1.0,2.0,2,2,2
+Education Professionals,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0.0,-1,1,1
+"Chief Executives, General Managers and Legislators",1.0,-1.0,0.0,1.0,-1.0,0.0,0.0,1.0,-1.0,0.0,1.0,0.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1,1,0
+ICT Professionals,2.0,2.0,1.0,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,0.0,2.0,0.0,1,1,1
+Arts and Media Professionals,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0,0,0
+ICT Professionals,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,0.0,1.0,1.0,1.0,0,1,1
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2,2,2
+Personal Assistants and Secretaries,2.0,-1.0,-2.0,2.0,2.0,1.0,,,,,,,-2,-1,-1
+ICT Professionals,-2.0,1.0,1.0,-1.0,1.0,1.0,,,,,,,-2,-1,-1
+Other Clerical and Administrative ,2.0,2.0,0.0,2.0,0.0,0.0,,,,,,,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,-1.0,0,0,0
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,2,2,2
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,1.0,0.0,1.0,1.0,1.0,1.0,-1.0,0.0,0.0,-1.0,-1.0,1.0,-1,2,-1
+"Chief Executives, General Managers and Legislators",1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0,1.0,0.0,1.0,1,1,1
+Arts and Media Professionals,1.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,-1.0,1.0,1.0,1.0,-1,-1,-1
+"Design, Engineering, Science and Transport Professionals",2.0,-1.0,2.0,2.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,1.0,2.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,1,1,1
+Specialist Managers,0.0,1.0,1.0,1.0,1.0,2.0,-1.0,1.0,-2.0,-2.0,1.0,2.0,-1,1,1
+"Legal, Social and Welfare Professionals",1.0,2.0,1.0,2.0,-1.0,1.0,2.0,2.0,1.0,2.0,-1.0,1.0,-1,1,1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,1,1,1
+Health Professionals,2.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,0,1,0
+ICT Professionals,1.0,2.0,0.0,2.0,2.0,2.0,,,,,,,2,2,2
+Office Managers and Program Administrators,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1,1,1
+Health Professionals,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,-1.0,0,-1,-1
+Specialist Managers,2.0,1.0,2.0,2.0,2.0,1.0,,,,,,,2,2,2
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0,1,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,0,1,1
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,2,2,2
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Sales Representatives and Agents,2.0,1.0,2.0,2.0,2.0,2.0,0.0,-1.0,-1.0,1.0,1.0,1.0,1,1,2
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,2.0,,,,,,,-1,-1,1
+Specialist Managers,,,,,,,0.0,0.0,1.0,1.0,2.0,1.0,1,2,2
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2,1,2
+"Engineering, ICT and Science Technicians",1.0,2.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0,0,1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,2.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0,1,1,2
+Education Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Other Clerical and Administrative ,-1.0,0.0,-2.0,2.0,1.0,1.0,-1.0,1.0,0.0,2.0,1.0,1.0,-2,0,-2
+Specialist Managers,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,1,2,2
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+Education Professionals,1.0,1.0,1.0,1.0,1.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,0,1,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,1,2,1
+"Chief Executives, General Managers and Legislators",-1.0,1.0,-1.0,-1.0,-1.0,-1.0,1.0,-1.0,-2.0,-1.0,1.0,-2.0,-2,-2,-2
+Education Professionals,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,-1.0,1.0,1.0,0,0,-1
+"Hospitality, Retail and Service Managers",1.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,0.0,1.0,1.0,1.0,1,1,0
+ICT Professionals,1.0,2.0,1.0,1.0,1.0,0.0,-1.0,2.0,-1.0,1.0,1.0,0.0,-1,0,1
+Other Clerical and Administrative ,2.0,1.0,2.0,2.0,1.0,0.0,-2.0,1.0,-2.0,0.0,0.0,0.0,0,2,2
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,1.0,2.0,1,2,2
+Education Professionals,2.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1,1,0
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0,-1,-1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1,1,0
+Education Professionals,2.0,1.0,2.0,2.0,0.0,1.0,,,,,,,-2,-1,-1
+"Hospitality, Retail and Service Managers",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,-1.0,2.0,2.0,2.0,2.0,-1.0,-2.0,-1.0,-1.0,1.0,1.0,-1,-1,-1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,-1.0,0.0,-1.0,1.0,-1.0,0.0,1,1,1
+General Clerical ,2.0,-2.0,2.0,2.0,2.0,2.0,-1.0,-2.0,-1.0,-2.0,2.0,0.0,0,-1,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,2.0,-2.0,1.0,1.0,-1.0,1.0,1.0,-1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,0.0,-1.0,-2.0,-2.0,1.0,-1,-1,-1
+ICT Professionals,2.0,1.0,1.0,2.0,1.0,1.0,-2.0,1.0,-2.0,-1.0,1.0,1.0,-1,-1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,-2.0,-1.0,-2.0,-2.0,-2.0,-2.0,2,2,2
+ICT Professionals,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-1.0,-1.0,1,0,1
+Health Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,-1.0,2.0,2.0,2.0,1.0,2.0,-1.0,2.0,2,2,2
+Sales Support ,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,-1.0,2.0,1.0,1.0,1,0,0
+"Chief Executives, General Managers and Legislators",0.0,-1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,-1.0,0.0,1,0,0
+Specialist Managers,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,-1,1,0
+Personal Assistants and Secretaries,-1.0,1.0,0.0,-1.0,1.0,0.0,,,,,,,-2,-2,-2
+Machine and Stationary Plant Operators,-2.0,-1.0,-1.0,0.0,-2.0,-2.0,-2.0,-1.0,-1.0,1.0,-2.0,-2.0,-2,-1,-2
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,1.0,,,,,,,-1,1,1
+Sales Representatives and Agents,2.0,-2.0,2.0,2.0,-2.0,-2.0,,,,,,,2,1,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Education Professionals,2.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-1.0,0,1,0
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1,2,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,-2,-1,-2
+Sales Representatives and Agents,0.0,2.0,1.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,1,0,1
+Specialist Managers,2.0,1.0,1.0,2.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",,,,,,,-2.0,-1.0,-2.0,0.0,0.0,0.0,-2,-2,-2
+Health Professionals,-1.0,-1.0,-1.0,1.0,1.0,-1.0,-1.0,1.0,-1.0,1.0,-1.0,1.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",2.0,0.0,-2.0,2.0,1.0,0.0,-2.0,0.0,-2.0,0.0,0.0,0.0,-1,0,0
+Specialist Managers,2.0,2.0,1.0,1.0,1.0,0.0,-1.0,-1.0,-1.0,-1.0,1.0,0.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,-2.0,-2.0,1.0,-1.0,1.0,,,,,,,1,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,-1.0,1.0,1.0,0.0,1,2,2
+Specialist Managers,-1.0,1.0,1.0,-1.0,1.0,1.0,-2.0,1.0,-1.0,0.0,0.0,1.0,-2,0,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Clerical and Office Support ,2.0,1.0,2.0,2.0,1.0,0.0,,,,,,,0,1,1
+Sales Assistants and Salespersons,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,-2.0,0.0,-1.0,0.0,-1.0,0.0,1.0,1.0,0.0,0.0,1.0,0,1,1
+Health Professionals,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,-1,-2,2
+Arts and Media Professionals,0.0,1.0,-1.0,1.0,-1.0,0.0,,,,,,,1,1,1
+Specialist Managers,2.0,1.0,2.0,1.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,1,2,2
+Office Managers and Program Administrators,1.0,2.0,2.0,1.0,2.0,1.0,-1.0,2.0,1.0,1.0,2.0,1.0,-1,-1,0
+Other Clerical and Administrative ,1.0,1.0,-1.0,-2.0,2.0,2.0,,,,,,,-1,-2,-1
+Carers and Aides,1.0,-1.0,-1.0,1.0,-1.0,1.0,1.0,0.0,-1.0,1.0,-1.0,0.0,-2,-2,-2
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,-1.0,2.0,-1.0,1.0,0.0,1.0,-1.0,0.0,1,1,1
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2,1,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,0.0,-1.0,2.0,1,1,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,-1.0,-1.0,-2.0,2.0,1.0,0.0,1,1,2
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,2.0,-1.0,1.0,-1.0,1.0,-1.0,-1.0,0,0,1
+"Business, Human Resource and Marketing Professionals",2.0,-1.0,2.0,2.0,1.0,2.0,2.0,-1.0,-1.0,1.0,1.0,2.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,1,2,2
+Sales Support ,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,-1.0,-1.0,-1.0,-1.0,1,0,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2,0,2
+Health Professionals,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,-1,0,0
+Sales Representatives and Agents,-1.0,-1.0,-1.0,-1.0,1.0,2.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0,-1,-1,-1
+Personal Assistants and Secretaries,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,0.0,2.0,1.0,0,0,2
+Education Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,1
+General Clerical ,1.0,1.0,-1.0,0.0,1.0,2.0,-2.0,-1.0,-1.0,-1.0,1.0,2.0,-1,-1,-1
+Specialist Managers,-1.0,0.0,-2.0,0.0,2.0,0.0,,,,,,,-2,-2,-2
+Health and Welfare Support ,1.0,1.0,1.0,0.0,-1.0,-2.0,-2.0,-1.0,-2.0,0.0,-1.0,-2.0,-2,-2,-2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,0.0,2,0,1
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,-1.0,1.0,1.0,1.0,-1,0,1
+Specialist Managers,0.0,0.0,-1.0,1.0,-1.0,-1.0,,,,,,,0,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,-1.0,2.0,2.0,1.0,2.0,1.0,-1.0,1.0,1.0,1.0,2.0,1,-1,-1
+"Hospitality, Retail and Service Managers",2.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1,1,1
+Clerical and Office Support ,2.0,0.0,2.0,2.0,1.0,2.0,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1,-1,-1
+Health Professionals,2.0,0.0,0.0,0.0,2.0,2.0,-1.0,0.0,-1.0,0.0,0.0,2.0,0,0,1
+Health Professionals,2.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,-1.0,0,1,1
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,1.0,2.0,-1,0,0
+ICT Professionals,0.0,1.0,0.0,0.0,-1.0,0.0,0.0,1.0,0.0,0.0,-1.0,0.0,-1,0,2
+"Business, Human Resource and Marketing Professionals",1.0,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-2.0,1.0,1.0,1.0,1,2,1
+ICT Professionals,0.0,1.0,0.0,1.0,1.0,0.0,1.0,-1.0,-1.0,1.0,0.0,0.0,0,1,1
+Health Professionals,1.0,-1.0,1.0,-1.0,-1.0,1.0,1.0,-1.0,-1.0,-1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,1.0,0.0,2.0,2.0,2.0,2.0,1.0,0.0,0,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,1.0,2.0,1.0,1.0,,,,,,,2,2,2
+Office Managers and Program Administrators,2.0,2.0,0.0,2.0,2.0,1.0,0.0,2.0,0.0,2.0,2.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1,1,1
+Carers and Aides,-1.0,-1.0,1.0,1.0,1.0,0.0,,,,,,,-2,-2,-2
+"Design, Engineering, Science and Transport Professionals",-1.0,-1.0,-1.0,1.0,-2.0,0.0,0.0,0.0,-1.0,1.0,-2.0,-2.0,-2,0,-1
+"Engineering, ICT and Science Technicians",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,-1,-1
+"Chief Executives, General Managers and Legislators",-2.0,-2.0,-2.0,0.0,-2.0,0.0,-1.0,-2.0,-2.0,1.0,-1.0,0.0,-2,-2,2
+Specialist Managers,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,-1,-1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",0.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0,1,1,0
+Education Professionals,2.0,1.0,2.0,2.0,2.0,2.0,-1.0,0.0,-2.0,-1.0,1.0,-1.0,0,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,2.0,1.0,2.0,0.0,-1.0,0.0,2.0,1.0,2.0,0.0,0.0,0,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,-2.0,1.0,0.0,0.0,0.0,1.0,-1,0,1
+Inquiry Clerks and Receptionists,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Clerical and Office Support ,-1.0,-2.0,-1.0,-1.0,0.0,1.0,0.0,-1.0,-2.0,-1.0,0.0,2.0,-1,-2,-1
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0,0,0
+Specialist Managers,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2.0,-2.0,-2.0,-1.0,-1.0,0.0,-2,-1,-2
+Specialist Managers,0.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,2.0,2.0,1.0,0,0,1
+Arts and Media Professionals,1.0,1.0,1.0,1.0,-1.0,1.0,-1.0,1.0,-1.0,-1.0,-1.0,1.0,-1,0,0
+ICT Professionals,2.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0,1,0
+Specialist Managers,2.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,2.0,2.0,2.0,0.0,0,1,2
+Health and Welfare Support ,1.0,0.0,-1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0,1,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+Office Managers and Program Administrators,0.0,0.0,-2.0,0.0,1.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,-2,-2,-2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,-2.0,0.0,-2.0,-2.0,1.0,-1.0,0,0,-2
+Office Managers and Program Administrators,,,,,,,2.0,2.0,-1.0,2.0,-1.0,-1.0,-1,0,0
+Specialist Managers,1.0,1.0,1.0,2.0,0.0,1.0,-1.0,1.0,-1.0,0.0,-1.0,0.0,1,1,1
+ICT Professionals,2.0,1.0,1.0,2.0,2.0,2.0,,,,,,,1,1,2
+Health Professionals,1.0,1.0,1.0,2.0,1.0,0.0,1.0,0.0,-1.0,2.0,1.0,0.0,1,1,1
+Education Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,-2,-1,-1
+Sales Representatives and Agents,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,1.0,1.0,-2,-2,-2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2,2,2
+Education Professionals,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-1.0,-2.0,-1.0,-1.0,-1.0,0,0,0
+ICT Professionals,2.0,2.0,0.0,2.0,2.0,1.0,,,,,,,1,1,1
+Education Professionals,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2,2,2
+Specialist Managers,0.0,1.0,-1.0,-1.0,1.0,2.0,0.0,1.0,-1.0,-1.0,1.0,2.0,1,0,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,2,1,1
+"Hospitality, Retail and Service Managers",0.0,0.0,0.0,0.0,-1.0,1.0,-1.0,0.0,1.0,0.0,0.0,-1.0,0,1,0
+Sales Representatives and Agents,-1.0,1.0,-1.0,-1.0,1.0,0.0,-1.0,-1.0,-2.0,-1.0,1.0,1.0,-1,-1,-1
+Machine and Stationary Plant Operators,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0,2.0,0.0,-1,-1,-2
+"Business, Human Resource and Marketing Professionals",-1.0,0.0,1.0,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-1,-1,1
+Specialist Managers,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0,-1,0
+"Business, Human Resource and Marketing Professionals",-1.0,0.0,0.0,-1.0,1.0,0.0,-1.0,0.0,0.0,-1.0,1.0,0.0,-1,0,1
+Road and Rail Drivers,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,-2,-2,-2
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,1.0,1.0,1.0,0,-1,-1
+"Business, Human Resource and Marketing Professionals",-1.0,0.0,0.0,-1.0,1.0,1.0,-1.0,0.0,-1.0,-1.0,1.0,1.0,-1,-1,-1
+ICT Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,-2.0,2.0,2.0,1.0,0.0,-2.0,-2.0,-2.0,0.0,-2.0,0.0,1,0,1
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,2.0,2,2,2
+Arts and Media Professionals,2.0,1.0,2.0,2.0,-1.0,-1.0,-1.0,1.0,-2.0,-1.0,-1.0,-1.0,1,1,2
+Other Clerical and Administrative ,2.0,1.0,2.0,2.0,2.0,2.0,-1.0,1.0,2.0,1.0,2.0,1.0,-1,-1,-1
+ICT Professionals,0.0,1.0,0.0,0.0,2.0,2.0,1.0,0.0,-1.0,1.0,2.0,2.0,-2,0,-1
+ICT Professionals,2.0,1.0,2.0,2.0,2.0,2.0,,,,,,,1,1,1
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,-1,-1,0
+Education Professionals,1.0,1.0,2.0,2.0,0.0,0.0,-2.0,2.0,-2.0,0.0,-2.0,0.0,0,0,0
+Health Professionals,0.0,-1.0,-1.0,0.0,-1.0,1.0,-1.0,-2.0,-2.0,0.0,-1.0,1.0,-2,-2,-1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,1,1
+Specialist Managers,-2.0,-2.0,-2.0,-2.0,0.0,0.0,,,,,,,-2,-2,-2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,-2.0,-1.0,-2.0,-1.0,-2.0,-2.0,0,1,1
+Other Clerical and Administrative ,2.0,0.0,2.0,2.0,-1.0,1.0,,,,,,,1,1,1
+Health Professionals,2.0,1.0,2.0,2.0,1.0,0.0,-1.0,1.0,0.0,-1.0,0.0,0.0,0,1,1
+Other Clerical and Administrative ,2.0,0.0,2.0,2.0,0.0,2.0,2.0,0.0,2.0,1.0,2.0,2.0,0,1,2
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,2.0,-2.0,-1.0,-2.0,-1.0,-1.0,1.0,0,1,1
+General Clerical ,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,-2.0,-1.0,0.0,0.0,1.0,2,2,2
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0,-1,-1,-1
+Specialist Managers,2.0,1.0,2.0,2.0,0.0,1.0,-2.0,-2.0,0.0,-2.0,-1.0,-1.0,0,1,1
+Specialist Managers,-1.0,2.0,-1.0,1.0,2.0,2.0,-1.0,1.0,-1.0,-1.0,2.0,2.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,1.0,1.0,1,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,0.0,-1.0,1.0,0.0,1.0,1.0,0.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,0.0,2.0,1.0,0.0,1,1,2
+Specialist Managers,0.0,1.0,2.0,-1.0,1.0,1.0,,,,,,,1,1,-2
+ICT Professionals,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,-1.0,1.0,1.0,1.0,-1,-1,-1
+Health Professionals,2.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0,0.0,0.0,1.0,2.0,2,2,2
+Other Technicians and Trades ,1.0,0.0,1.0,1.0,-1.0,-1.0,1.0,-1.0,1.0,1.0,-1.0,-1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,0.0,0.0,-1.0,0.0,1.0,1.0,-1.0,0.0,-1.0,-1.0,1.0,1.0,-1,-1,-1
+Clerical and Office Support ,2.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,-1.0,1.0,1.0,1.0,-1,0,0
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,-1.0,1.0,,,,,,,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1,1,1
+Health Professionals,1.0,2.0,0.0,2.0,2.0,2.0,,,,,,,-1,-1,-1
+Specialist Managers,1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,1,1,1
+Sales Representatives and Agents,0.0,1.0,0.0,0.0,-1.0,-1.0,1.0,0.0,-1.0,0.0,-2.0,0.0,-1,-2,-1
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,1.0,1.0,1.0,1.0,2,1,2
+Arts and Media Professionals,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2,2,2
+Specialist Managers,,,,,,,-2.0,0.0,-2.0,-1.0,1.0,1.0,-2,-1,-2
+Office Managers and Program Administrators,1.0,-1.0,-1.0,1.0,1.0,1.0,,,,,,,1,1,1
+Health and Welfare Support ,2.0,2.0,2.0,2.0,2.0,1.0,,,,,,,2,2,2
+ICT Professionals,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1,0,2
+Office Managers and Program Administrators,0.0,2.0,-2.0,2.0,2.0,2.0,0.0,1.0,-2.0,2.0,2.0,1.0,2,2,2
+Education Professionals,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,-2,-2,-2
+Personal Assistants and Secretaries,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0.0,-2.0,2.0,2.0,1.0,0,1,1
+"Engineering, ICT and Science Technicians",1.0,0.0,1.0,-1.0,-1.0,-1.0,0.0,1.0,1.0,-1.0,-1.0,1.0,1,1,0
+"Engineering, ICT and Science Technicians",-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,,,,,,,1,0,0
+Other Clerical and Administrative ,2.0,1.0,2.0,2.0,1.0,2.0,2.0,-1.0,2.0,1.0,1.0,2.0,2,2,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1,1,2
+"Design, Engineering, Science and Transport Professionals",1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1,1,1
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2,2,1
+Clerical and Office Support ,0.0,2.0,1.0,1.0,2.0,1.0,,,,,,,-2,-2,-2
+Clerical and Office Support ,1.0,1.0,0.0,2.0,2.0,2.0,0.0,1.0,-1.0,2.0,2.0,2.0,1,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,-1.0,1.0,0.0,2.0,1,1,1
+"Engineering, ICT and Science Technicians",2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,-1,-1,-1
+Specialist Managers,1.0,1.0,1.0,1.0,0.0,-1.0,0.0,0.0,-1.0,1.0,-1.0,-1.0,1,1,1
+Other Clerical and Administrative ,0.0,1.0,-2.0,0.0,2.0,2.0,0.0,1.0,-2.0,0.0,2.0,2.0,-1,0,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0,1,1
+Education Professionals,2.0,2.0,2.0,2.0,2.0,0.0,0.0,1.0,1.0,2.0,1.0,0.0,0,2,-2
+ICT Professionals,2.0,2.0,2.0,2.0,-2.0,1.0,0.0,1.0,1.0,1.0,-1.0,1.0,1,1,1
+ICT Professionals,1.0,-1.0,1.0,1.0,1.0,1.0,-1.0,0.0,-1.0,1.0,1.0,1.0,-1,0,0
+Specialist Managers,1.0,1.0,1.0,-1.0,-1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,-1,-1,-1
+Specialist Managers,2.0,0.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,-1.0,0,1,1
+Specialist Managers,0.0,1.0,0.0,0.0,2.0,2.0,0.0,1.0,1.0,1.0,2.0,2.0,0,0,0
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,-1.0,-1.0,1.0,-1.0,-1.0,2.0,-2.0,-1.0,-1.0,-1.0,-1.0,2.0,-2,-1,-2
+"Hospitality, Retail and Service Managers",-1.0,0.0,-1.0,1.0,0.0,2.0,-2.0,-1.0,-2.0,-1.0,-1.0,1.0,-2,-2,-1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0,0.0,0.0,0.0,0.0,-1,0,0
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,1.0,1.0,,,,,,,1,0,0
+Specialist Managers,0.0,1.0,1.0,1.0,1.0,1.0,-2.0,1.0,-2.0,0.0,-1.0,1.0,0,-1,0
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,2.0,2.0,0.0,1.0,,,,,,,0,0,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1,2,1
+"Business, Human Resource and Marketing Professionals",0.0,1.0,0.0,0.0,1.0,-1.0,1.0,1.0,1.0,0.0,1.0,0.0,-1,0,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,0.0,2,2,2
+"Chief Executives, General Managers and Legislators",-1.0,-1.0,-1.0,-1.0,0.0,1.0,,,,,,,-1,-1,-2
+Other Clerical and Administrative ,0.0,0.0,1.0,1.0,-1.0,2.0,,,,,,,0,0,0
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,2.0,1.0,0,0,1
+Education Professionals,1.0,1.0,-2.0,2.0,1.0,2.0,,,,,,,1,1,0
+Education Professionals,-1.0,-1.0,-1.0,-1.0,1.0,1.0,-1.0,-1.0,0.0,-1.0,1.0,2.0,-2,-2,-2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,-1.0,-1.0,2.0,2.0,2.0,2.0,0.0,0.0,2,0,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,2,2,2
+Office Managers and Program Administrators,2.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,2.0,2.0,1.0,1.0,1,2,1
+Sales Representatives and Agents,1.0,0.0,-1.0,0.0,1.0,-1.0,0.0,1.0,-1.0,0.0,1.0,0.0,-1,-1,-1
+Sports and Personal Service ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+Clerical and Office Support ,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,0.0,2.0,1.0,-1.0,1.0,,,,,,,1,1,1
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,2.0,1,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0,2.0,2.0,1.0,2.0,0,-1,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0,2.0,0.0,0,0,2
+"Engineering, ICT and Science Technicians",,,,,,,2.0,2.0,2.0,2.0,2.0,-1.0,-2,0,-1
+"Business, Human Resource and Marketing Professionals",0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0,0,1
+Sales Assistants and Salespersons,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Clerical and Office Support ,2.0,-1.0,-1.0,2.0,2.0,1.0,,,,,,,-2,-2,-2
+Other Technicians and Trades ,1.0,1.0,1.0,1.0,1.0,2.0,,,,,,,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2,0,0
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,-1,0,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,2.0,2.0,-1.0,-1.0,0.0,-1.0,1.0,1.0,1,1,1
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,0.0,2.0,1.0,1.0,1,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,2,2,2
+Sales Support ,2.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0,2.0,2.0,0.0,1.0,-1,0,1
+Education Professionals,-2.0,2.0,0.0,-2.0,-2.0,0.0,-1.0,1.0,0.0,-2.0,-1.0,0.0,-2,0,-2
+"Legal, Social and Welfare Professionals",1.0,0.0,2.0,1.0,-1.0,1.0,,,,,,,-1,0,1
+Health Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+Personal Assistants and Secretaries,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,-1.0,-1.0,2.0,1.0,1.0,2.0,1.0,1.0,0,0,1
+Education Professionals,2.0,1.0,0.0,1.0,1.0,1.0,-2.0,-2.0,-2.0,0.0,0.0,1.0,-1,-2,-2
+Sales Assistants and Salespersons,1.0,-1.0,1.0,1.0,1.0,1.0,,,,,,,1,1,1
+Specialist Managers,2.0,2.0,1.0,1.0,2.0,2.0,0.0,2.0,-1.0,-1.0,1.0,1.0,2,2,2
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,2.0,-1.0,1.0,-1.0,1.0,1.0,0.0,1,0,0
+"Design, Engineering, Science and Transport Professionals",-2.0,-2.0,-1.0,-2.0,1.0,2.0,,,,,,,-2,-2,-2
+"Chief Executives, General Managers and Legislators",-1.0,1.0,-2.0,-2.0,1.0,1.0,,,,,,,0,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1,2,2
+Construction Trades ,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1,0,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,2,2,2
+ICT Professionals,2.0,1.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,2,0,2
+ICT Professionals,2.0,1.0,2.0,2.0,2.0,2.0,,,,,,,1,1,2
+Education Professionals,1.0,-2.0,1.0,1.0,1.0,-1.0,,,,,,,0,0,0
+Office Managers and Program Administrators,2.0,0.0,2.0,2.0,2.0,2.0,-2.0,0.0,-1.0,0.0,-1.0,2.0,1,1,1
+General Clerical ,0.0,2.0,0.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0,0,0
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,-2,-1,-2
+Education Professionals,-1.0,-1.0,-1.0,1.0,-1.0,0.0,,,,,,,-2,-2,-2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2,0,1
+Specialist Managers,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,-1.0,-1.0,-1.0,0.0,0.0,1.0,1,1,1
+Electrotechnology and Telecommunications Trades ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0,0,0
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,-2.0,-1.0,1.0,0.0,2,2,2
+Education Professionals,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,-1.0,0.0,1,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2,2,2
+"Hospitality, Retail and Service Managers",1.0,0.0,1.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,2.0,0,0,0
+"Design, Engineering, Science and Transport Professionals",1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0,0,0
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,-1.0,2.0,2.0,2.0,1,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Engineering, ICT and Science Technicians",0.0,1.0,0.0,-1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1,1,0
+Specialist Managers,2.0,1.0,1.0,1.0,1.0,0.0,-1.0,0.0,-1.0,0.0,1.0,0.0,0,0,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,-1.0,2.0,1.0,0.0,0.0,1.0,-1.0,1.0,1.0,-1.0,1,1,0
+Other Technicians and Trades ,1.0,1.0,-1.0,1.0,1.0,1.0,,,,,,,-2,-1,0
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,2.0,2.0,2.0,2.0,,,,,,,1,1,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,-1.0,0.0,-1.0,1.0,1,1,0
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,0.0,-1.0,1.0,-1.0,1.0,2.0,0.0,1,1,1
+Protective Service ,0.0,0.0,-1.0,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,1.0,1.0,0,1,0
+Sales Assistants and Salespersons,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,0,0,0
+Personal Assistants and Secretaries,1.0,-2.0,-2.0,-1.0,-1.0,0.0,0.0,-2.0,-2.0,-1.0,-2.0,0.0,0,0,-1
+"Hospitality, Retail and Service Managers",,,,,,,2.0,1.0,2.0,-2.0,0.0,1.0,2,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+ICT Professionals,1.0,2.0,2.0,2.0,-1.0,0.0,,,,,,,-2,0,-1
+"Design, Engineering, Science and Transport Professionals",-1.0,1.0,0.0,0.0,0.0,0.0,-1.0,1.0,-1.0,0.0,0.0,0.0,-1,0,1
+"Business, Human Resource and Marketing Professionals",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Clerical and Office Support ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,2.0,0.0,2.0,1.0,0.0,0.0,2.0,0.0,2.0,1.0,0.0,0,0,2
+Sales Representatives and Agents,1.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,2,1,1
+"Business, Human Resource and Marketing Professionals",0.0,0.0,0.0,0.0,0.0,-1.0,0.0,-1.0,0.0,0.0,0.0,0.0,0,-1,0
+"Business, Human Resource and Marketing Professionals",,,,,,,0.0,2.0,1.0,0.0,2.0,1.0,0,1,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,1.0,-2.0,-1.0,-1.0,0.0,1.0,1.0,1,2,2
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,-1.0,1.0,1.0,0.0,-1.0,1.0,1,2,2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,-1.0,1.0,2.0,1.0,1.0,2.0,-1.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,1.0,2.0,1.0,0.0,,,,,,,-2,-2,-2
+"Hospitality, Retail and Service Managers",1.0,0.0,1.0,1.0,1.0,0.0,-1.0,-1.0,-1.0,0.0,1.0,0.0,-2,-2,-2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,1.0,1.0,1,1,1
+Specialist Managers,2.0,1.0,2.0,2.0,2.0,2.0,-2.0,1.0,-1.0,-1.0,-1.0,0.0,-1,1,1
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,2.0,1.0,2.0,-1.0,1.0,-1.0,1.0,1.0,1.0,1,1,2
+Education Professionals,0.0,1.0,1.0,1.0,1.0,2.0,,,,,,,-2,-2,-2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,-2.0,0.0,0.0,-2.0,2.0,2.0,2,1,1
+Specialist Managers,2.0,2.0,1.0,2.0,2.0,0.0,0.0,1.0,1.0,2.0,1.0,0.0,0,-1,2
+"Design, Engineering, Science and Transport Professionals",1.0,2.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,2,2,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Other Clerical and Administrative ,2.0,1.0,-2.0,0.0,2.0,0.0,,,,,,,-2,-2,-2
+Carers and Aides,1.0,-1.0,1.0,2.0,1.0,0.0,1.0,-1.0,0.0,1.0,0.0,0.0,-1,-1,0
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,1.0,0.0,2.0,-1,1,0
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,1.0,-2.0,-2.0,-2.0,0.0,-1.0,0.0,-1,0,-1
+Sales Representatives and Agents,1.0,2.0,2.0,1.0,1.0,0.0,2.0,2.0,1.0,2.0,1.0,1.0,-2,-2,-2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,0.0,1.0,2.0,1.0,2.0,1.0,0.0,2,2,2
+Personal Assistants and Secretaries,2.0,1.0,1.0,2.0,1.0,1.0,,,,,,,1,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,-2.0,,,,,,,0,1,0
+Office Managers and Program Administrators,2.0,0.0,2.0,2.0,1.0,0.0,1.0,0.0,2.0,2.0,-1.0,0.0,1,1,0
+ICT Professionals,2.0,0.0,1.0,2.0,1.0,0.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,0,0,0
+Education Professionals,2.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1,1,1
+Specialist Managers,0.0,0.0,0.0,0.0,-1.0,1.0,-1.0,-1.0,1.0,0.0,-1.0,0.0,-1,-1,0
+"Business, Human Resource and Marketing Professionals",0.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1,1,0
+"Engineering, ICT and Science Technicians",,,,,,,2.0,1.0,-1.0,2.0,0.0,1.0,1,1,-1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1,2,2
+Arts and Media Professionals,1.0,1.0,1.0,1.0,1.0,2.0,-1.0,1.0,-1.0,0.0,1.0,2.0,-1,-1,0
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,2,2,0
+Specialist Managers,1.0,1.0,0.0,2.0,1.0,2.0,-1.0,1.0,0.0,0.0,1.0,2.0,1,2,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,0
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,-1,1,2
+Other Clerical and Administrative ,-2.0,-1.0,-2.0,-2.0,-1.0,-1.0,,,,,,,-2,-1,-1
+Inquiry Clerks and Receptionists,1.0,0.0,-1.0,-2.0,2.0,2.0,,,,,,,-1,-1,1
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,0
+Clerical and Office Support ,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,1.0,1.0,2.0,2.0,-1,0,0
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,1.0,1.0,1.0,2.0,1.0,2.0,-1.0,1.0,-1.0,2.0,0.0,2.0,-1,-1,-1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,-1.0,0.0,2.0,0.0,-1.0,1.0,-1.0,0.0,1,0,1
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0
+"Hospitality, Retail and Service Managers",-1.0,-1.0,-1.0,0.0,0.0,1.0,-1.0,-1.0,-1.0,-1.0,0.0,1.0,-1,-1,-1
+General Clerical ,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,,,,,,,1,2,2
+"Chief Executives, General Managers and Legislators",1.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,1.0,-1.0,0.0,2.0,2.0,1.0,1.0,-1.0,0.0,2.0,1.0,-1,-1,-1
+Clerical and Office Support ,-1.0,1.0,1.0,-1.0,2.0,1.0,,,,,,,1,-1,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,2.0,,,,,,,1,1,1
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,,,,,,,1,1,2
+Specialist Managers,2.0,1.0,2.0,2.0,0.0,1.0,2.0,1.0,2.0,2.0,0.0,1.0,2,2,1
+Health Professionals,-2.0,2.0,-2.0,2.0,2.0,0.0,-2.0,2.0,-2.0,2.0,2.0,0.0,-2,-2,-2
+Education Professionals,1.0,0.0,1.0,1.0,1.0,1.0,-1.0,-1.0,-1.0,0.0,1.0,1.0,-1,-1,-1
+"Chief Executives, General Managers and Legislators",2.0,2.0,0.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,0.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,0,1,0
+ICT Professionals,-2.0,1.0,1.0,-2.0,1.0,2.0,-1.0,1.0,1.0,-1.0,1.0,2.0,-2,0,-2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2,0,2
+ICT Professionals,2.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1,1,1
+Arts and Media Professionals,2.0,1.0,1.0,2.0,1.0,2.0,,,,,,,-1,1,0
+"Design, Engineering, Science and Transport Professionals",2.0,0.0,1.0,2.0,0.0,-1.0,-1.0,1.0,0.0,2.0,1.0,-1.0,1,1,2
+Health Professionals,2.0,2.0,2.0,2.0,1.0,-2.0,-2.0,1.0,1.0,0.0,-1.0,-1.0,-1,-1,0
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",0.0,1.0,1.0,1.0,1.0,1.0,,,,,,,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,1
+ICT Professionals,2.0,-1.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,0
+General Clerical ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Specialist Managers,-1.0,-1.0,-1.0,0.0,-1.0,1.0,,,,,,,-2,-2,-1
+Sales Support ,-1.0,1.0,1.0,1.0,1.0,-2.0,-1.0,1.0,1.0,1.0,1.0,-2.0,0,0,1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,1,0
+Clerical and Office Support ,1.0,1.0,0.0,1.0,1.0,2.0,,,,,,,-2,0,-2
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,-2,-1,-1
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,-1.0,-1.0,1.0,2.0,1,1,1
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,1.0,2.0,2.0,-1.0,-1.0,1.0,-1.0,-1.0,1.0,1,1,2
+"Legal, Social and Welfare Professionals",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,1,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,0,1,0
+"Hospitality, Retail and Service Managers",1.0,0.0,-2.0,-1.0,1.0,2.0,-1.0,-1.0,-2.0,-1.0,1.0,2.0,-1,-1,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+Sales Representatives and Agents,0.0,-2.0,1.0,-1.0,1.0,1.0,,,,,,,-2,-2,-2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,2.0,2.0,0.0,0.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,2,2,2
+"Hospitality, Retail and Service Managers",0.0,0.0,-1.0,1.0,1.0,2.0,0.0,-1.0,0.0,1.0,1.0,1.0,-1,0,-1
+ICT Professionals,1.0,1.0,0.0,-1.0,0.0,0.0,1.0,1.0,1.0,-1.0,0.0,1.0,-1,0,1
+Specialist Managers,1.0,1.0,2.0,2.0,0.0,0.0,1.0,1.0,2.0,2.0,0.0,0.0,2,2,-2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,1,0,1
+Specialist Managers,2.0,1.0,2.0,2.0,-1.0,1.0,-2.0,1.0,-2.0,0.0,-2.0,1.0,-1,0,0
+Health Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,2.0,1.0,1.0,2.0,1.0,1.0,,,,,,,0,0,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0,-1,-1,-1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,0.0,-1.0,1.0,-2.0,0.0,0.0,0.0,-1,-1,1
+Health Professionals,1.0,1.0,0.0,1.0,0.0,1.0,,,,,,,-1,0,0
+Sales Assistants and Salespersons,0.0,1.0,2.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,0.0,0.0,1.0,-1.0,0.0,0.0,1.0,1,1,1
+"Engineering, ICT and Science Technicians",0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0,0,1
+"Business, Human Resource and Marketing Professionals",0.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0,0,0
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,0.0,-1.0,1.0,0.0,2.0,1.0,0.0,0,0,-1
+Education Professionals,0.0,1.0,-2.0,1.0,2.0,-1.0,,,,,,,1,1,1
+Education Professionals,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0,1,0
+Other Clerical and Administrative ,2.0,1.0,0.0,2.0,2.0,1.0,,,,,,,0,1,1
+Office Managers and Program Administrators,0.0,2.0,-1.0,2.0,1.0,0.0,0.0,2.0,-1.0,2.0,2.0,0.0,-2,-2,-1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,0.0,-2.0,0.0,-2.0,-1.0,1.0,0.0,-2,-2,-2
+Specialist Managers,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1,1,1
+Education Professionals,,,,,,,-1.0,-1.0,0.0,-2.0,1.0,1.0,-2,-2,-2
+Other Labourers,1.0,-1.0,0.0,1.0,-2.0,1.0,,,,,,,-2,-2,-2
+Specialist Managers,,,,,,,-2.0,-1.0,-2.0,-2.0,1.0,1.0,-1,-2,-2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,0.0,-1.0,1.0,0.0,1.0,0.0,1.0,-1.0,-1.0,0.0,0.0,0,0,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,-1.0,,,,,,,1,1,1
+ICT Professionals,1.0,1.0,2.0,2.0,2.0,2.0,0.0,-1.0,0.0,-1.0,2.0,2.0,0,0,0
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,2,2,2
+Specialist Managers,2.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,-1.0,0.0,1.0,2.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Inquiry Clerks and Receptionists,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Sales Assistants and Salespersons,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,0.0,2,1,0
+"Design, Engineering, Science and Transport Professionals",0.0,-1.0,1.0,1.0,-1.0,1.0,-2.0,-1.0,-1.0,-2.0,-2.0,2.0,-1,-1,-1
+Personal Assistants and Secretaries,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0,1,-1
+Personal Assistants and Secretaries,0.0,1.0,1.0,0.0,2.0,1.0,,,,,,,1,1,1
+Sales Assistants and Salespersons,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",1.0,0.0,1.0,0.0,1.0,0.0,-1.0,-1.0,1.0,-1.0,-1.0,-1.0,0,1,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1,-1,1
+ICT Professionals,2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,1.0,0.0,2.0,2.0,1,2,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0,0,0
+Health Professionals,1.0,1.0,1.0,-1.0,1.0,-1.0,-2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2,-2,-2
+Hospitality ,-1.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0.0,-1.0,-1.0,-1,-1,-1
+Other Clerical and Administrative ,0.0,-1.0,2.0,1.0,1.0,1.0,,,,,,,-2,0,0
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,0.0,,,,,,,-1,0,-1
+Specialist Managers,2.0,1.0,1.0,2.0,-1.0,1.0,1.0,-1.0,-1.0,1.0,-1.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,1.0,1.0,,,,,,,0,0,0
+Health Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,0
+Specialist Managers,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,-1.0,2.0,2.0,1.0,1.0,-1.0,1.0,1.0,1.0,-1.0,-1.0,2,2,-1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,2,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,2.0,1,0,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,0.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,1,0,1
+Clerical and Office Support ,1.0,1.0,-2.0,0.0,2.0,2.0,,,,,,,0,-1,-2
+ICT Professionals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1,2,2
+Clerical and Office Support ,2.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0,-1.0,0.0,0.0,1.0,1,0,0
+Education Professionals,0.0,0.0,1.0,2.0,1.0,2.0,0.0,0.0,1.0,2.0,1.0,2.0,0,1,0
+"Business, Human Resource and Marketing Professionals",2.0,1.0,0.0,2.0,2.0,0.0,,,,,,,-1,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,2.0,2,1,2
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,0.0,-1.0,0.0,0.0,0.0,-1.0,0.0,-1,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,1.0,1.0,2.0,2.0,2,1,2
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1,1,1
+Clerical and Office Support ,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,1.0,2.0,1.0,1.0,,,,,,,1,1,2
+Construction and Mining Labourers,-1.0,1.0,-1.0,1.0,-1.0,0.0,0.0,-1.0,0.0,-1.0,-1.0,-1.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2,2,1
+Education Professionals,2.0,1.0,1.0,2.0,1.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,-1,1,0
+General Clerical ,2.0,1.0,2.0,2.0,2.0,1.0,,,,,,,1,1,1
+Specialist Managers,-2.0,-1.0,-1.0,-1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0,-1,-1,-1
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,1.0,1.0,2.0,-1.0,2.0,-1.0,-1.0,1.0,2.0,-1,-1,-1
+Education Professionals,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,,,,,,,2,2,2
+Health Professionals,2.0,1.0,2.0,2.0,1.0,1.0,-2.0,-2.0,0.0,-2.0,1.0,1.0,0,0,0
+"Design, Engineering, Science and Transport Professionals",2.0,0.0,2.0,1.0,2.0,1.0,,,,,,,1,1,1
+ICT Professionals,1.0,2.0,1.0,1.0,2.0,2.0,-2.0,2.0,-2.0,-1.0,1.0,2.0,1,1,1
+Health Professionals,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,1,1,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2,2,1
+"Hospitality, Retail and Service Managers",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,-1.0,-1.0,,,,,,,1,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,1.0,-1.0,1.0,-1.0,-1.0,0.0,1.0,1,1,1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,1.0,1.0,-1,0,-1
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0,1,1,1
+Sales Representatives and Agents,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1,1,1
+Clerical and Office Support ,1.0,0.0,1.0,0.0,1.0,0.0,,,,,,,-2,-2,-2
+Specialist Managers,1.0,2.0,1.0,2.0,1.0,1.0,-1.0,2.0,-1.0,2.0,1.0,1.0,-1,-1,-1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,2.0,1.0,-1.0,0.0,2.0,1.0,2.0,1,1,2
+Protective Service ,2.0,1.0,2.0,2.0,2.0,2.0,,,,,,,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,1.0,-2.0,1.0,-2.0,-1.0,1.0,1.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,-1,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+General Clerical ,2.0,2.0,2.0,2.0,2.0,1.0,,,,,,,2,2,1
+Specialist Managers,1.0,1.0,1.0,1.0,2.0,2.0,0.0,1.0,-1.0,1.0,2.0,2.0,0,0,0
+"Engineering, ICT and Science Technicians",2.0,2.0,2.0,2.0,1.0,1.0,-1.0,2.0,1.0,1.0,1.0,1.0,0,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,-1.0,0.0,1.0,0.0,1,1,1
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Arts and Media Professionals,0.0,-1.0,-2.0,0.0,0.0,0.0,0.0,-1.0,-2.0,0.0,0.0,0.0,2,0,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Sales Support ,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,-1,1,0
+Specialist Managers,1.0,2.0,0.0,2.0,0.0,1.0,0.0,1.0,-1.0,1.0,0.0,1.0,1,1,1
+Clerical and Office Support ,2.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0,-1.0,0.0,1.0,1.0,-1,0,0
+ICT Professionals,2.0,1.0,2.0,2.0,2.0,2.0,-1.0,0.0,-1.0,-1.0,1.0,2.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0,1,1
+Office Managers and Program Administrators,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,-1.0,2.0,2.0,2.0,2,1,0
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Electrotechnology and Telecommunications Trades ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,1.0,1.0,-2.0,2.0,-1.0,-1.0,1.0,-1.0,-1,1,1
+Education Professionals,-2.0,0.0,1.0,1.0,0.0,1.0,-2.0,-2.0,-1.0,-2.0,-1.0,0.0,-2,-2,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,0.0,-1.0,0.0,1.0,1,1,2
+ICT Professionals,2.0,2.0,1.0,2.0,0.0,1.0,,,,,,,2,2,0
+"Engineering, ICT and Science Technicians",2.0,1.0,2.0,2.0,0.0,-1.0,-1.0,-1.0,-1.0,2.0,1.0,0.0,1,1,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,0,0,0
+"Business, Human Resource and Marketing Professionals",1.0,0.0,1.0,1.0,1.0,1.0,-1.0,-1.0,0.0,-1.0,0.0,1.0,0,0,-1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,-1.0,1.0,1.0,1.0,1,1,1
+Health Professionals,-1.0,1.0,-1.0,0.0,1.0,1.0,,,,,,,-2,-1,-1
+ICT Professionals,2.0,2.0,0.0,0.0,2.0,2.0,-1.0,-1.0,0.0,0.0,1.0,1.0,-1,1,-1
+Specialist Managers,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,1.0,1.0,0,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,0,0
+Sales Representatives and Agents,-2.0,-2.0,-2.0,-2.0,1.0,1.0,,,,,,,-2,-2,-2
+Office Managers and Program Administrators,-1.0,-1.0,-1.0,-1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,0.0,1.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",-2.0,1.0,-2.0,-2.0,0.0,-1.0,,,,,,,-2,-2,-2
+ICT Professionals,2.0,1.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0,2.0,1.0,1.0,1,0,1
+Specialist Managers,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",1.0,2.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0,1,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1,0,0
+Arts and Media Professionals,2.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,-1.0,2.0,-1.0,-1.0,1,1,1
+Other Technicians and Trades ,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,-2,-2,-2
+Hospitality ,,,,,,,0.0,1.0,-1.0,2.0,1.0,1.0,-1,-1,-2
+Specialist Managers,1.0,1.0,2.0,2.0,1.0,1.0,,,,,,,0,1,1
+"Business, Human Resource and Marketing Professionals",1.0,-2.0,-2.0,2.0,-1.0,-1.0,-2.0,1.0,-1.0,1.0,-1.0,-1.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,0,0,0
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,0,2,2
+Health and Welfare Support ,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,-1.0,1.0,-2.0,0.0,2,2,2
+"Business, Human Resource and Marketing Professionals",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,2,2,2
+General Clerical ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-2.0,0.0,1.0,1.0,0,1,1
+"Legal, Social and Welfare Professionals",2.0,0.0,-2.0,0.0,1.0,2.0,-2.0,0.0,-2.0,0.0,1.0,1.0,-1,-1,-1
+Specialist Managers,,,,,,,0.0,0.0,-2.0,1.0,0.0,0.0,-1,-1,-1
+Construction Trades ,-1.0,0.0,1.0,1.0,2.0,-2.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,2,1,0
+Health Professionals,1.0,1.0,2.0,1.0,1.0,2.0,-1.0,0.0,2.0,-1.0,1.0,1.0,-1,0,-1
+"Chief Executives, General Managers and Legislators",-1.0,-1.0,-1.0,-1.0,1.0,-1.0,,,,,,,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",-1.0,1.0,-1.0,1.0,1.0,1.0,-1.0,1.0,-1.0,1.0,1.0,1.0,-1,-1,-1
+General Clerical ,-1.0,0.0,1.0,0.0,0.0,-1.0,0.0,0.0,-1.0,0.0,0.0,0.0,0,0,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,1.0,-1.0,1.0,0.0,-1.0,2.0,0.0,-1,0,-1
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,1.0,2.0,1.0,-1.0,0.0,1.0,0.0,1.0,1,2,1
+Specialist Managers,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,0,0,1
+"Design, Engineering, Science and Transport Professionals",0.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,-1.0,2.0,2.0,2.0,1,1,2
+Specialist Managers,2.0,-1.0,2.0,2.0,1.0,1.0,0.0,-2.0,-1.0,-1.0,-2.0,2.0,0,1,1
+"Business, Human Resource and Marketing Professionals",2.0,-1.0,2.0,2.0,0.0,0.0,1.0,-1.0,-1.0,1.0,-1.0,0.0,-1,0,1
+ICT Professionals,-1.0,1.0,-1.0,-1.0,1.0,0.0,,,,,,,-2,-1,-1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1,2,1
+ICT Professionals,-1.0,1.0,-2.0,2.0,1.0,1.0,,,,,,,-2,1,-1
+Education Professionals,2.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0,0.0,2.0,2.0,2.0,2,2,2
+Other Technicians and Trades ,0.0,1.0,1.0,2.0,1.0,-2.0,0.0,1.0,1.0,2.0,1.0,-1.0,-1,-2,-1
+Road and Rail Drivers,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2,-2,-2
+Health Professionals,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,0,1,1
+Specialist Managers,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2,2,0
+Specialist Managers,-2.0,-2.0,-2.0,-2.0,0.0,2.0,-2.0,-2.0,-2.0,-2.0,0.0,0.0,-2,-2,-2
+ICT Professionals,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0,0,0
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,2.0,1.0,2.0,2.0,1.0,,,,,,,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,1.0,2.0,-1.0,1.0,0.0,1.0,1.0,1.0,1,2,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,2.0,-1.0,0.0,-2.0,0.0,0.0,0.0,1,1,2
+ICT Professionals,1.0,1.0,1.0,1.0,1.0,2.0,-1.0,1.0,-1.0,1.0,1.0,2.0,-1,0,1
+Sales Representatives and Agents,0.0,2.0,2.0,2.0,2.0,2.0,-2.0,1.0,-1.0,-1.0,-1.0,1.0,-1,1,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,1.0,0.0,2.0,1.0,1,1,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,1.0,-1.0,-1.0,-1.0,1.0,1.0,2,2,2
+Education Professionals,-2.0,-2.0,-1.0,-2.0,1.0,1.0,,,,,,,-2,-1,-2
+"Hospitality, Retail and Service Managers",-2.0,-1.0,-2.0,0.0,-1.0,-1.0,-2.0,-1.0,-2.0,0.0,0.0,-1.0,-2,-2,-2
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,2.0,0,1,0
+"Design, Engineering, Science and Transport Professionals",0.0,1.0,1.0,1.0,1.0,1.0,,,,,,,0,0,1
+Specialist Managers,-1.0,1.0,1.0,0.0,1.0,-2.0,-1.0,1.0,-1.0,0.0,1.0,-1.0,-1,0,1
+"Hospitality, Retail and Service Managers",0.0,2.0,0.0,2.0,2.0,1.0,0.0,1.0,0.0,2.0,2.0,1.0,0,0,0
+Office Managers and Program Administrators,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,0.0,1,1,1
+"Chief Executives, General Managers and Legislators",0.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,-1,0,0
+Office Managers and Program Administrators,2.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,-1.0,2.0,0.0,1.0,0,1,2
+ICT Professionals,2.0,0.0,2.0,2.0,2.0,2.0,-2.0,1.0,1.0,1.0,2.0,1.0,1,1,2
+"Legal, Social and Welfare Professionals",0.0,1.0,1.0,1.0,-1.0,0.0,0.0,1.0,1.0,1.0,-1.0,1.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,0.0,1.0,2.0,2.0,2.0,2.0,0.0,1.0,2,2,2
+Office Managers and Program Administrators,0.0,-1.0,0.0,0.0,-1.0,1.0,,,,,,,-1,0,0
+Hospitality ,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Personal Assistants and Secretaries,-1.0,1.0,1.0,2.0,1.0,1.0,-1.0,1.0,1.0,2.0,1.0,1.0,-2,-1,-1
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,1.0,2.0,2.0,,,,,,,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Arts and Media Professionals,-2.0,1.0,-1.0,-2.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,1.0,2,2,2
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,2,2,2
+"Business, Human Resource and Marketing Professionals",0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Office Managers and Program Administrators,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1,1,1
+ICT Professionals,2.0,1.0,2.0,2.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,1.0,-1.0,-2,1,2
+Numerical Clerks,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0,0.0,2.0,2.0,0,0,1
+Sales Support ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,2
+Clerical and Office Support ,1.0,-1.0,-2.0,2.0,1.0,0.0,,,,,,,-1,1,1
+General Clerical ,2.0,2.0,2.0,2.0,2.0,2.0,-2.0,2.0,-2.0,-2.0,2.0,2.0,-1,-1,0
+Office Managers and Program Administrators,-1.0,2.0,1.0,1.0,2.0,0.0,1.0,2.0,1.0,1.0,2.0,0.0,-1,-2,-2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,2.0,2.0,1.0,2.0,1,2,1
+Other Clerical and Administrative ,2.0,-1.0,2.0,2.0,2.0,2.0,,,,,,,1,1,1
+ICT Professionals,1.0,2.0,1.0,2.0,0.0,0.0,-1.0,2.0,-1.0,1.0,0.0,0.0,0,0,1
+Clerical and Office Support ,1.0,1.0,2.0,1.0,1.0,0.0,,,,,,,-2,-1,-1
+Education Professionals,2.0,1.0,1.0,2.0,1.0,-1.0,,,,,,,-2,-2,-2
+Education Professionals,-2.0,2.0,-1.0,-2.0,0.0,1.0,,,,,,,-2,-2,-2
+Other Technicians and Trades ,1.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0,2.0,2.0,-1,-1,-1
+Clerical and Office Support ,2.0,2.0,-2.0,2.0,1.0,-1.0,,,,,,,-2,-2,-2
+"Chief Executives, General Managers and Legislators",-1.0,-1.0,-1.0,-1.0,2.0,2.0,-1.0,0.0,-1.0,-1.0,1.0,2.0,-1,-1,-1
+Numerical Clerks,-1.0,1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1,1,0
+"Hospitality, Retail and Service Managers",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,0
+Sports and Personal Service ,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+General Clerical ,2.0,1.0,2.0,2.0,2.0,2.0,-1.0,-1.0,-2.0,2.0,2.0,2.0,-1,-1,-1
+Personal Assistants and Secretaries,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,-1,0,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,1,1
+Other Clerical and Administrative ,1.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0,1,1
+Other Clerical and Administrative ,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,2.0,2.0,2.0,-1.0,-1.0,-2.0,-1.0,-1.0,1.0,0,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1,1,1
+ICT Professionals,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1,1,2
+"Business, Human Resource and Marketing Professionals",0.0,1.0,1.0,1.0,1.0,0.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,-1,0,0
+"Design, Engineering, Science and Transport Professionals",1.0,0.0,1.0,1.0,1.0,1.0,,,,,,,1,1,1
+Other Clerical and Administrative ,2.0,1.0,2.0,2.0,2.0,1.0,,,,,,,1,1,1
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,2,2
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,1.0,1.0,-2.0,1.0,-1.0,-1.0,-1.0,-1.0,1,1,1
+General Clerical ,2.0,1.0,1.0,2.0,1.0,0.0,-1.0,-1.0,0.0,-1.0,0.0,-1.0,1,1,1
+Other Clerical and Administrative ,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,0,0,1
+Education Professionals,2.0,-1.0,2.0,2.0,-2.0,1.0,-2.0,-1.0,-2.0,0.0,-1.0,1.0,-2,-2,-2
+Education Professionals,2.0,2.0,2.0,2.0,1.0,2.0,-2.0,1.0,-2.0,2.0,1.0,2.0,1,1,1
+Clerical and Office Support ,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,-1.0,-1.0,0.0,-1.0,-1,-1,-1
+Education Professionals,1.0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,2.0,2.0,1,1,1
+Clerical and Office Support ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,2.0,2.0,1,1,1
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,1,0,2
+"Engineering, ICT and Science Technicians",2.0,1.0,1.0,2.0,2.0,2.0,,,,,,,1,1,1
+"Hospitality, Retail and Service Managers",-2.0,0.0,0.0,1.0,-1.0,-1.0,0.0,1.0,-1.0,1.0,0.0,1.0,1,0,-1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,-1,0,-1
+Education Professionals,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,2,2,2
+"Hospitality, Retail and Service Managers",0.0,0.0,0.0,2.0,1.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,0,0,0
+Clerical and Office Support ,2.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,-1.0,-1.0,1.0,1.0,0,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,1.0,-2.0,-1.0,-1.0,-1.0,-1.0,1.0,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,2.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,-1,1,2
+Sales Support ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,0.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,2
+Sales Assistants and Salespersons,1.0,2.0,2.0,2.0,1.0,1.0,-1.0,2.0,2.0,1.0,-1.0,1.0,-1,-1,-1
+Numerical Clerks,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,-1.0,-1.0,0.0,0.0,0,0,1
+Specialist Managers,-2.0,-2.0,-1.0,-1.0,2.0,2.0,,,,,,,-2,-2,-2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0,0,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2,2,2
+Clerical and Office Support ,2.0,1.0,2.0,2.0,1.0,1.0,,,,,,,1,1,1
+Personal Assistants and Secretaries,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Clerical and Office Support ,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1,1,0
+Clerical and Office Support ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,-1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,1.0,-1.0,2.0,1.0,-1.0,1.0,1.0,-1,-1,-1
+Other Technicians and Trades ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-2,-2,-2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0,1,1
+General Clerical ,1.0,0.0,2.0,2.0,0.0,1.0,2.0,0.0,2.0,1.0,0.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Clerical and Office Support ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Legal, Social and Welfare Professionals",1.0,1.0,1.0,2.0,1.0,2.0,-2.0,-1.0,-2.0,-1.0,0.0,0.0,1,0,1
+Other Clerical and Administrative ,2.0,2.0,2.0,1.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,2,2,2
+Clerical and Office Support ,0.0,2.0,2.0,1.0,2.0,2.0,,,,,,,-1,0,0
+Specialist Managers,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Office Managers and Program Administrators,1.0,-2.0,1.0,-2.0,2.0,1.0,,,,,,,-1,-1,-1
+Other Technicians and Trades ,1.0,2.0,1.0,1.0,1.0,2.0,,,,,,,-2,-2,-2
+Health Professionals,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,-2.0,-2.0,2.0,-2.0,1,2,2
+"Chief Executives, General Managers and Legislators",-1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,-2,-2,-2
+"Hospitality, Retail and Service Managers",0.0,1.0,-1.0,1.0,-2.0,-1.0,,,,,,,1,1,1
+General Clerical ,-1.0,2.0,-2.0,2.0,1.0,-1.0,0.0,2.0,-1.0,2.0,1.0,-1.0,-1,-2,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,-1.0,1.0,1.0,2.0,1,2,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,2,1,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,0,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,0.0,1.0,2.0,,,,,,,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",1.0,-2.0,-1.0,0.0,1.0,1.0,,,,,,,-1,0,-1
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Clerical and Office Support ,0.0,-1.0,1.0,-1.0,-1.0,1.0,,,,,,,-2,-1,-2
+Office Managers and Program Administrators,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,-1.0,2.0,2.0,2.0,2.0,0.0,0.0,-1.0,1.0,1.0,1.0,1,1,2
+ICT Professionals,0.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1,1,1
+Education Professionals,2.0,2.0,2.0,2.0,-1.0,-1.0,,,,,,,-1,-1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2,0,2
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,1.0,1.0,1.0,2.0,-1.0,2.0,-1.0,-1.0,1.0,2.0,1,1,1
+Sales Representatives and Agents,2.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,-1.0,0.0,1,1,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,-1.0,0.0,-1.0,0.0,1.0,-1.0,-1,0,0
+Specialist Managers,2.0,1.0,2.0,2.0,-1.0,-1.0,0.0,1.0,1.0,-1.0,-1.0,0.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2,2,1
+General Clerical ,,,,,,,0.0,-1.0,-1.0,0.0,0.0,0.0,0,0,0
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0,0.0,-1.0,2.0,1,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,2.0,,,,,,,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,0.0,-1.0,1.0,1.0,0.0,1.0,1.0,-1.0,0,1,1
+"Design, Engineering, Science and Transport Professionals",1.0,0.0,-1.0,0.0,0.0,2.0,-1.0,1.0,0.0,1.0,1.0,0.0,0,1,2
+Sales Assistants and Salespersons,0.0,0.0,0.0,0.0,1.0,1.0,,,,,,,-1,-1,-1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,1,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,0.0,,,,,,,0,0,1
+"Design, Engineering, Science and Transport Professionals",1.0,2.0,1.0,2.0,2.0,2.0,0.0,1.0,0.0,0.0,2.0,2.0,-1,-1,1
+Sales Assistants and Salespersons,1.0,2.0,2.0,1.0,2.0,2.0,,,,,,,-2,-2,1
+Specialist Managers,-1.0,1.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0,-1.0,0.0,0.0,0,-1,0
+Education Professionals,2.0,0.0,1.0,2.0,1.0,-1.0,0.0,0.0,-1.0,1.0,-1.0,-1.0,1,1,1
+Skilled Animal and Horticultural ,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1,1,1
+Protective Service ,1.0,1.0,-1.0,-1.0,1.0,1.0,0.0,1.0,-1.0,-1.0,1.0,1.0,1,0,1
+ICT Professionals,0.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0,0,0
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,-1.0,2.0,2.0,2.0,-1.0,1.0,-1.0,2.0,2.0,2.0,-2,-2,2
+Construction Trades ,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1,1,1
+Clerical and Office Support ,1.0,1.0,1.0,1.0,2.0,2.0,,,,,,,1,2,2
+Clerical and Office Support ,2.0,2.0,1.0,1.0,1.0,0.0,2.0,2.0,1.0,1.0,1.0,0.0,0,1,0
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Other Clerical and Administrative ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,-1.0,0.0,1.0,-1.0,0.0,1.0,0.0,0.0,1.0,1.0,-1,0,1
+Clerical and Office Support ,2.0,1.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+"Engineering, ICT and Science Technicians",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,2,2
+"Engineering, ICT and Science Technicians",1.0,1.0,1.0,0.0,1.0,0.0,,,,,,,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,-1.0,1.0,2.0,2.0,0,0,0
+"Engineering, ICT and Science Technicians",0.0,0.0,-2.0,-1.0,-1.0,-1.0,0.0,-1.0,0.0,-2.0,0.0,-1.0,1,0,1
+"Business, Human Resource and Marketing Professionals",-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,0.0,0,0,0
+Specialist Managers,2.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,2,1,2
+"Business, Human Resource and Marketing Professionals",0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,-1.0,1.0,1,1,2
+General Clerical ,0.0,1.0,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,-2.0,-1.0,-1,0,1
+Specialist Managers,0.0,-1.0,1.0,0.0,1.0,1.0,0.0,-1.0,1.0,0.0,0.0,0.0,1,0,-1
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1,2,1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,1.0,2.0,2.0,2.0,1,1,2
+Specialist Managers,2.0,2.0,2.0,2.0,0.0,2.0,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,0,-1,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,1.0,1.0,2.0,-1,0,0
+Inquiry Clerks and Receptionists,2.0,2.0,2.0,2.0,2.0,1.0,0.0,2.0,2.0,2.0,1.0,1.0,2,2,2
+Arts and Media Professionals,-1.0,0.0,-1.0,2.0,0.0,1.0,-1.0,-1.0,0.0,0.0,0.0,-2.0,-1,2,0
+Clerical and Office Support ,2.0,0.0,2.0,2.0,1.0,1.0,-2.0,0.0,-2.0,-2.0,1.0,1.0,-1,-1,-1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,0,0
+"Chief Executives, General Managers and Legislators",-1.0,1.0,1.0,1.0,2.0,0.0,2.0,1.0,1.0,1.0,0.0,1.0,1,1,0
+"Chief Executives, General Managers and Legislators",1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1,1,2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,1.0,2.0,1.0,1.0,,,,,,,0,0,-1
+Carers and Aides,0.0,0.0,1.0,-1.0,1.0,0.0,0.0,1.0,2.0,-1.0,1.0,2.0,1,-1,0
+"Engineering, ICT and Science Technicians",0.0,-1.0,0.0,0.0,0.0,-1.0,0.0,-1.0,0.0,0.0,0.0,0.0,0,0,1
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,1.0,1.0,,,,,,,1,1,1
+"Design, Engineering, Science and Transport Professionals",1.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0,0,1
+Specialist Managers,1.0,0.0,1.0,1.0,-1.0,-1.0,,,,,,,0,-1,0
+Specialist Managers,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,1,1,1
+"Legal, Social and Welfare Professionals",0.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0,0,0
+Protective Service ,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1,0,0
+"Business, Human Resource and Marketing Professionals",1.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,2.0,0,1,1
+Specialist Managers,1.0,2.0,2.0,0.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2,1,2
+Education Professionals,-2.0,-1.0,-2.0,1.0,-1.0,-1.0,-2.0,0.0,-2.0,1.0,-1.0,-1.0,-2,-1,-2
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,2.0,-1.0,2.0,-1.0,1.0,1.0,2.0,1,-1,2
+Construction Trades ,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,0,1,2
+Sales Representatives and Agents,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,1,2,0
+Education Professionals,2.0,2.0,2.0,1.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,0.0,2,2,1
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",0.0,1.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,1,1,2
+Personal Assistants and Secretaries,2.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,2.0,1,1,2
+Education Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0,1,1
+ICT Professionals,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2,2,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,-1.0,2.0,2.0,2.0,2,2,2
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,0,1,1
+ICT Professionals,2.0,1.0,-1.0,2.0,2.0,1.0,,,,,,,0,1,1
+Specialist Managers,2.0,1.0,2.0,2.0,2.0,2.0,-1.0,0.0,0.0,-1.0,2.0,2.0,1,1,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,-1.0,1.0,0.0,1.0,1,1,1
+Clerical and Office Support ,2.0,2.0,2.0,2.0,2.0,2.0,-2.0,2.0,-2.0,-2.0,2.0,2.0,-1,-1,-1
+Specialist Managers,2.0,0.0,2.0,2.0,1.0,2.0,1.0,-1.0,0.0,-1.0,-1.0,2.0,2,2,2
+Sales Support ,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1
+Cleaners and Laundry ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,-1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,0.0,0.0,-1.0,-1.0,1.0,1.0,0.0,0.0,0.0,-1.0,0,1,1
+Office Managers and Program Administrators,0.0,1.0,0.0,-1.0,-2.0,-2.0,,,,,,,-1,-1,-1
+"Design, Engineering, Science and Transport Professionals",2.0,-2.0,2.0,2.0,-1.0,-1.0,2.0,0.0,2.0,1.0,-1.0,0.0,0,1,0
+Office Managers and Program Administrators,2.0,2.0,2.0,1.0,0.0,2.0,1.0,2.0,2.0,0.0,2.0,2.0,1,0,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,2,2,2
+Specialist Managers,-1.0,1.0,-1.0,0.0,0.0,-1.0,0.0,1.0,1.0,1.0,1.0,-1.0,1,1,0
+"Business, Human Resource and Marketing Professionals",-1.0,2.0,2.0,0.0,1.0,1.0,1.0,1.0,-1.0,-1.0,-2.0,0.0,2,1,1
+Other Clerical and Administrative ,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,0.0,1.0,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,0.0,2.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,2,2,2
+"Engineering, ICT and Science Technicians",1.0,2.0,1.0,2.0,1.0,1.0,-1.0,2.0,-1.0,-1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,1.0,0.0,-2.0,2.0,1.0,2.0,1.0,0.0,-2.0,-2,-2,-2
+"Business, Human Resource and Marketing Professionals",-1.0,-2.0,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,-1.0,-2.0,0.0,0,-1,-1
+"Chief Executives, General Managers and Legislators",2.0,1.0,2.0,2.0,1.0,1.0,,,,,,,1,1,1
+ICT Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Personal Assistants and Secretaries,,,,,,,-2.0,-1.0,-1.0,-2.0,1.0,1.0,-2,-2,-2
+Sales Representatives and Agents,1.0,1.0,2.0,0.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,0.0,-1,1,1
+Other Technicians and Trades ,1.0,1.0,2.0,2.0,-1.0,-1.0,1.0,1.0,1.0,1.0,-1.0,-1.0,1,1,1
+Health and Welfare Support ,2.0,0.0,2.0,2.0,1.0,1.0,,,,,,,-2,-2,-2
+Specialist Managers,0.0,-1.0,0.0,1.0,0.0,1.0,0.0,-1.0,0.0,1.0,0.0,1.0,-1,1,0
+"Business, Human Resource and Marketing Professionals",1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0,0,1
+Clerical and Office Support ,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Legal, Social and Welfare Professionals",2.0,-1.0,2.0,1.0,0.0,1.0,0.0,-1.0,-1.0,0.0,0.0,1.0,1,1,2
+"Hospitality, Retail and Service Managers",2.0,1.0,2.0,2.0,1.0,-1.0,-1.0,1.0,0.0,1.0,0.0,-1.0,1,2,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,0.0,0.0,,,,,,,1,1,1
+Sales Assistants and Salespersons,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-2.0,1.0,1.0,0.0,1,1,-1
+Specialist Managers,1.0,0.0,1.0,2.0,1.0,1.0,,,,,,,0,1,0
+Sales Representatives and Agents,1.0,2.0,1.0,2.0,-1.0,-1.0,,,,,,,1,2,2
+Arts and Media Professionals,1.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",0.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0,1,1
+Education Professionals,-1.0,0.0,0.0,0.0,1.0,-2.0,,,,,,,0,0,0
+"Chief Executives, General Managers and Legislators",-1.0,2.0,1.0,-1.0,1.0,2.0,-1.0,0.0,-1.0,-1.0,-1.0,1.0,-1,0,-1
+Electrotechnology and Telecommunications Trades ,2.0,1.0,2.0,2.0,1.0,0.0,,,,,,,-1,0,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0.0,0,1,1
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Other Technicians and Trades ,0.0,0.0,-2.0,-1.0,0.0,2.0,,,,,,,0,1,-1
+"Design, Engineering, Science and Transport Professionals",0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1,1,0
+Specialist Managers,1.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1,2,1
+Automotive and Engineering Trades ,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,1,2,1
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1,0,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,0,0,0
+Other Labourers,-1.0,-1.0,1.0,1.0,1.0,-1.0,1.0,-1.0,1.0,1.0,2.0,-1.0,-1,-1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,-1,-1,0
+Electrotechnology and Telecommunications Trades ,-2.0,1.0,-1.0,1.0,-1.0,2.0,2.0,-2.0,1.0,0.0,1.0,-1.0,-1,-2,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,-1.0,-1.0,1.0,1.0,1,1,2
+Other Clerical and Administrative ,-2.0,2.0,-2.0,-2.0,2.0,2.0,,,,,,,-2,-2,-2
+"Business, Human Resource and Marketing Professionals",-2.0,-1.0,-2.0,-2.0,-2.0,-1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,1,-2,2
+Health and Welfare Support ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Sales Representatives and Agents,0.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,-1,-1,-1
+Specialist Managers,1.0,-1.0,-1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,2,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,2.0,1.0,2.0,2,1,0
+Specialist Managers,0.0,0.0,-2.0,0.0,2.0,1.0,-2.0,-1.0,-1.0,0.0,2.0,2.0,2,1,2
+Health Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Legal, Social and Welfare Professionals",0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,-1.0,1.0,1,0,1
+Specialist Managers,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,-1,-1,0
+Specialist Managers,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,1,1
+Sales Support ,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,0.0,1.0,1.0,-1.0,0.0,1,1,2
+Carers and Aides,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,-2.0,0.0,2,2,2
+Arts and Media Professionals,0.0,1.0,1.0,2.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,2.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,-1.0,2.0,0.0,1.0,1.0,2.0,1,1,1
+ICT Professionals,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,1
+Office Managers and Program Administrators,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,1,2
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,2.0,2.0,2.0,-1.0,0.0,-1.0,0.0,1.0,1.0,1,1,1
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,-2,-1,-2
+Hospitality ,1.0,1.0,1.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1,2,2
+General Clerical ,2.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,-1.0,1.0,2.0,0.0,1,2,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,-1.0,1.0,1.0,2.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,-1,0,2
+Health and Welfare Support ,-2.0,2.0,-2.0,-2.0,2.0,2.0,,,,,,,-2,-2,-2
+"Design, Engineering, Science and Transport Professionals",1.0,0.0,0.0,0.0,0.0,1.0,,,,,,,1,1,1
+Sales Assistants and Salespersons,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,0.0,2.0,1.0,2.0,2.0,1.0,2.0,0.0,1.0,0,1,1
+General Clerical ,1.0,-1.0,1.0,1.0,-1.0,1.0,1.0,-1.0,1.0,1.0,1.0,1.0,-1,1,-1
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,0.0,2.0,2.0,1.0,2.0,1.0,0.0,2.0,2.0,2,0,0
+Automotive and Engineering Trades ,0.0,-2.0,-2.0,-1.0,-1.0,0.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,-1,0,1
+Electrotechnology and Telecommunications Trades ,1.0,1.0,1.0,1.0,1.0,0.0,-1.0,-1.0,-1.0,-1.0,1.0,-1.0,-1,-1,-1
+Farmers and Farm Managers,0.0,0.0,0.0,0.0,1.0,-1.0,1.0,0.0,0.0,0.0,0.0,0.0,0,1,1
+"Legal, Social and Welfare Professionals",1.0,0.0,1.0,1.0,-2.0,-1.0,-1.0,1.0,0.0,1.0,-2.0,0.0,0,1,0
+Numerical Clerks,2.0,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1,2,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,-2.0,2,2,1
+Arts and Media Professionals,2.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,-1.0,1.0,1.0,1.0,1,1,2
+"Legal, Social and Welfare Professionals",1.0,0.0,-2.0,1.0,-1.0,-1.0,2.0,0.0,-2.0,1.0,-1.0,0.0,1,2,0
+Specialist Managers,-1.0,2.0,1.0,1.0,1.0,0.0,2.0,0.0,2.0,2.0,1.0,2.0,-1,-1,0
+Health Professionals,-1.0,0.0,0.0,1.0,1.0,0.0,-1.0,0.0,0.0,1.0,0.0,0.0,1,0,-1
+Specialist Managers,-2.0,-1.0,2.0,0.0,-1.0,-1.0,-2.0,-2.0,-2.0,2.0,-1.0,-1.0,-2,-2,-2
+Specialist Managers,1.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,2.0,0.0,0,1,2
+Sales Representatives and Agents,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,2,2,2
+"Legal, Social and Welfare Professionals",1.0,0.0,-1.0,1.0,1.0,-1.0,,,,,,,1,1,-1
+ICT Professionals,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0,1.0,1.0,0.0,1.0,0,-1,-1
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,0.0,2.0,2.0,1.0,2.0,2.0,0.0,2.0,2,2,2
+Hospitality ,0.0,0.0,1.0,-1.0,-1.0,0.0,-1.0,1.0,0.0,0.0,1.0,0.0,-1,1,0
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,2,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,-1.0,0.0,2.0,2.0,1,1,2
+ICT Professionals,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,-1,0,0
+Sales Representatives and Agents,1.0,1.0,0.0,1.0,1.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,-1.0,-1,0,0
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,-1.0,-2.0,1.0,0.0,0.0,1.0,-1.0,1.0,-1.0,1,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,2,2
+Specialist Managers,0.0,2.0,-2.0,2.0,1.0,0.0,1.0,2.0,-2.0,2.0,1.0,0.0,-1,1,0
+Sales Assistants and Salespersons,2.0,1.0,1.0,2.0,1.0,1.0,,,,,,,2,2,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,,,,,,,1,1,1
+Clerical and Office Support ,2.0,1.0,1.0,2.0,1.0,1.0,,,,,,,0,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,0.0,1.0,0.0,1.0,2.0,1.0,2.0,2.0,1,1,0
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,2.0,2,2,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1,1,1
+Automotive and Engineering Trades ,-2.0,-2.0,-2.0,-1.0,-1.0,-2.0,-1.0,0.0,1.0,0.0,-1.0,-1.0,0,-1,-1
+Office Managers and Program Administrators,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0,-1,0
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,2,2
+"Chief Executives, General Managers and Legislators",-1.0,-2.0,-1.0,1.0,1.0,-1.0,-1.0,-1.0,-2.0,1.0,1.0,-1.0,1,1,1
+Education Professionals,2.0,1.0,2.0,1.0,2.0,1.0,-2.0,0.0,-2.0,-2.0,0.0,0.0,0,1,1
+"Engineering, ICT and Science Technicians",-1.0,-2.0,-1.0,-1.0,0.0,0.0,0.0,-1.0,0.0,-2.0,-1.0,-1.0,-1,0,-1
+ICT Professionals,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,1,1
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,-1.0,2.0,2.0,0.0,-1,0,0
+Education Professionals,0.0,2.0,1.0,1.0,1.0,0.0,,,,,,,-1,-1,-1
+Office Managers and Program Administrators,1.0,2.0,0.0,1.0,2.0,2.0,1.0,2.0,-2.0,2.0,2.0,2.0,-2,-2,-2
+Clerical and Office Support ,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Office Managers and Program Administrators,1.0,2.0,1.0,2.0,0.0,0.0,1.0,2.0,1.0,2.0,0.0,1.0,0,1,1
+"Chief Executives, General Managers and Legislators",1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,-1.0,0.0,0.0,0.0,-1,-1,0
+Specialist Managers,0.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1,1,1
+Other Technicians and Trades ,1.0,-1.0,2.0,-1.0,2.0,2.0,-2.0,-1.0,-2.0,2.0,2.0,2.0,-2,-2,-2
+"Chief Executives, General Managers and Legislators",2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1,1,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,2.0,1.0,2.0,0.0,,,,,,,1,0,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,1,1,1
+ICT Professionals,2.0,2.0,2.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,1,1,1
+"Hospitality, Retail and Service Managers",2.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1,2,2
+Health Professionals,0.0,-1.0,-1.0,-2.0,0.0,0.0,0.0,0.0,-1.0,-1.0,1.0,-1.0,-1,0,-1
+Health and Welfare Support ,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,-1.0,1.0,1.0,1.0,-1,-1,-1
+Sales Support ,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,2,2,2
+Other Technicians and Trades ,2.0,0.0,2.0,1.0,-1.0,1.0,0.0,0.0,1.0,1.0,-2.0,1.0,1,0,1
+Other Clerical and Administrative ,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Arts and Media Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,-2
+Specialist Managers,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0,1,1
+Other Technicians and Trades ,2.0,1.0,2.0,2.0,2.0,2.0,,,,,,,-1,-1,-1
+ICT Professionals,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1,1,2
+Mobile Plant Operators,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0,0,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,2.0,1.0,-2.0,-2.0,-2.0,-2.0,1.0,0.0,0,1,0
+"Chief Executives, General Managers and Legislators",0.0,1.0,2.0,1.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,1.0,1,1,2
+ICT Professionals,2.0,2.0,1.0,2.0,2.0,0.0,2.0,2.0,1.0,2.0,2.0,0.0,0,2,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,1.0,2.0,1.0,2.0,,,,,,,1,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+"Engineering, ICT and Science Technicians",2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2,2,2
+Specialist Managers,0.0,1.0,0.0,0.0,-1.0,-1.0,0.0,1.0,0.0,0.0,0.0,-1.0,-1,0,1
+Factory Process ,,,,,,,-1.0,-1.0,0.0,0.0,0.0,0.0,0,0,0
+Sales Support ,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0,0,0
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Specialist Managers,2.0,0.0,2.0,2.0,1.0,1.0,2.0,0.0,2.0,2.0,1.0,1.0,1,0,2
+Farmers and Farm Managers,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0,0,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,0.0,-1.0,0.0,0.0,1.0,1.0,1.0,2,2,2
+Machine and Stationary Plant Operators,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,1,1
+Education Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,2,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,1.0,2.0,-1.0,-2.0,2.0,1.0,1.0,1,0,1
+Specialist Managers,2.0,0.0,2.0,2.0,0.0,0.0,-1.0,-1.0,0.0,0.0,0.0,1.0,-1,-1,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,2.0,2.0,0.0,2.0,1.0,0.0,1.0,2.0,0.0,2.0,0,2,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,0,0,-1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,2.0,2.0,2.0,-1.0,0.0,0.0,-1.0,0.0,1.0,1,1,2
+Health Professionals,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,1,1,0
+"Business, Human Resource and Marketing Professionals",2.0,1.0,0.0,1.0,0.0,1.0,,,,,,,-1,1,0
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0,2.0,2.0,0,0,0
+"Business, Human Resource and Marketing Professionals",1.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,0.0,2,1,2
+Specialist Managers,1.0,-1.0,-2.0,2.0,2.0,2.0,,,,,,,1,1,1
+"Engineering, ICT and Science Technicians",1.0,2.0,2.0,2.0,2.0,0.0,,,,,,,1,2,2
+"Hospitality, Retail and Service Managers",2.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,2.0,1,2,1
+General Clerical ,2.0,2.0,0.0,2.0,2.0,2.0,-2.0,2.0,0.0,-2.0,2.0,2.0,-1,-1,-1
+"Business, Human Resource and Marketing Professionals",-1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,-1.0,0.0,0,0,0
+Other Clerical and Administrative ,1.0,-1.0,2.0,1.0,1.0,1.0,,,,,,,-1,-1,-2
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,1,1,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,0.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,-2.0,1.0,2.0,2.0,2.0,2.0,-2.0,1.0,0,0,0
+Specialist Managers,2.0,1.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1,2,2
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,1,1,1
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,2,2,2
+Arts and Media Professionals,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,1,2,1
+Carers and Aides,,,,,,,2.0,2.0,-2.0,2.0,1.0,-2.0,-2,-2,-2
+"Hospitality, Retail and Service Managers",-2.0,-2.0,2.0,-2.0,1.0,1.0,-2.0,-2.0,1.0,-2.0,1.0,-1.0,-2,-2,-2
+General Clerical ,,,,,,,-2.0,-1.0,-2.0,-2.0,1.0,1.0,-2,-2,-2
+General Clerical ,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1,1,2
+Sales Representatives and Agents,0.0,1.0,-1.0,1.0,-2.0,2.0,,,,,,,2,2,2
+General Clerical ,2.0,2.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,2.0,2.0,1.0,0,0,2
+Specialist Managers,2.0,2.0,2.0,2.0,1.0,0.0,2.0,2.0,1.0,2.0,1.0,1.0,1,1,1
+Education Professionals,1.0,1.0,1.0,1.0,0.0,2.0,2.0,1.0,2.0,2.0,0.0,2.0,-1,0,0
+Clerical and Office Support ,2.0,2.0,2.0,2.0,2.0,1.0,,,,,,,1,1,1
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,2.0,-1.0,1.0,1.0,-1.0,1.0,1.0,1,1,1
+Clerical and Office Support ,0.0,1.0,0.0,1.0,1.0,1.0,,,,,,,0,0,0
+"Business, Human Resource and Marketing Professionals",1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0,1,1
+Carers and Aides,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,0,0
+"Business, Human Resource and Marketing Professionals",0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0,1,1
+"Business, Human Resource and Marketing Professionals",-2.0,-1.0,1.0,1.0,1.0,2.0,,,,,,,-2,1,1
+Inquiry Clerks and Receptionists,2.0,1.0,2.0,2.0,2.0,0.0,,,,,,,2,2,2
+Sales Assistants and Salespersons,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Arts and Media Professionals,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1,0,1
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,1.0,-1.0,1.0,-1.0,-1.0,-1.0,0.0,-2.0,1.0,1,0,-1
+Specialist Managers,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1,1,1
+ICT Professionals,-2.0,0.0,-2.0,-2.0,2.0,2.0,,,,,,,-2,-2,-2
+Specialist Managers,-1.0,-1.0,-1.0,-1.0,1.0,1.0,,,,,,,-2,-2,-2
+Specialist Managers,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0,1,1
+Specialist Managers,2.0,2.0,1.0,2.0,2.0,2.0,,,,,,,1,0,0
+Clerical and Office Support ,,,,,,,0.0,0.0,1.0,1.0,1.0,-1.0,0,0,0
+Clerical and Office Support ,2.0,2.0,1.0,2.0,2.0,2.0,,,,,,,0,-1,0
+"Business, Human Resource and Marketing Professionals",0.0,2.0,2.0,2.0,1.0,-2.0,-1.0,1.0,1.0,1.0,0.0,-2.0,0,-1,1
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Personal Assistants and Secretaries,,,,,,,-1.0,1.0,-2.0,1.0,-1.0,0.0,1,0,0
+"Chief Executives, General Managers and Legislators",0.0,2.0,-1.0,2.0,2.0,2.0,0.0,2.0,-1.0,2.0,2.0,2.0,0,0,0
+"Chief Executives, General Managers and Legislators",1.0,0.0,0.0,-1.0,0.0,-1.0,1.0,0.0,0.0,-1.0,0.0,-1.0,-1,0,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,0.0,1.0,2.0,2.0,2.0,2.0,0.0,1.0,2,2,-2
+Education Professionals,1.0,1.0,-1.0,1.0,1.0,1.0,0.0,1.0,-2.0,-1.0,2.0,1.0,0,1,-1
+Other Clerical and Administrative ,0.0,2.0,-1.0,2.0,2.0,0.0,-2.0,1.0,-1.0,2.0,0.0,0.0,0,0,1
+Office Managers and Program Administrators,2.0,2.0,2.0,0.0,-1.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2,2,1
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Legal, Social and Welfare Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,-1.0,2.0,-1.0,-1.0,,,,,,,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,-1.0,0.0,1.0,1.0,2,1,2
+Personal Assistants and Secretaries,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,-1.0,2.0,2,2,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,2.0,0.0,1.0,2.0,,,,,,,1,1,2
+ICT Professionals,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,2,-1,0
+Education Professionals,-1.0,-1.0,0.0,0.0,1.0,0.0,-1.0,-1.0,0.0,0.0,1.0,1.0,-2,-2,-2
+Education Professionals,2.0,-1.0,-2.0,2.0,0.0,-2.0,,,,,,,0,1,-2
+ICT Professionals,2.0,2.0,1.0,2.0,1.0,1.0,-1.0,2.0,0.0,1.0,1.0,1.0,1,0,1
+Health and Welfare Support ,,,,,,,-2.0,1.0,-2.0,-2.0,2.0,2.0,-2,-2,-2
+Mobile Plant Operators,-1.0,0.0,-1.0,-1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,1.0,0.0,-1,0,-1
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2,2,2
+Farmers and Farm Managers,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1,2,1
+Machine and Stationary Plant Operators,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1,0,2
+Arts and Media Professionals,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1,1,1
+Specialist Managers,2.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,0,1
+"Legal, Social and Welfare Professionals",0.0,0.0,2.0,1.0,1.0,2.0,-2.0,0.0,-2.0,0.0,0.0,1.0,0,0,0
+"Chief Executives, General Managers and Legislators",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,-1.0,0.0,-1.0,0,0,0
+Health Professionals,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,-1.0,1.0,0.0,0.0,1,0,1
+"Business, Human Resource and Marketing Professionals",1.0,2.0,1.0,1.0,2.0,2.0,0.0,2.0,0.0,0.0,2.0,2.0,2,2,2
+Sales Support ,-1.0,-1.0,-1.0,-2.0,-1.0,0.0,-1.0,-1.0,-1.0,-2.0,-1.0,0.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",0.0,0.0,0.0,1.0,0.0,1.0,,,,,,,1,0,0
+ICT Professionals,2.0,2.0,2.0,2.0,1.0,2.0,-2.0,1.0,-1.0,0.0,1.0,2.0,2,0,0
+Education Professionals,-2.0,-2.0,-2.0,-2.0,2.0,2.0,-2.0,-2.0,-2.0,-2.0,2.0,2.0,-2,-2,-2
+Specialist Managers,1.0,1.0,1.0,0.0,1.0,1.0,,,,,,,1,1,1
+"Legal, Social and Welfare Professionals",2.0,0.0,1.0,2.0,-1.0,1.0,-1.0,-1.0,-1.0,1.0,-1.0,-1.0,2,1,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,0,2
+"Engineering, ICT and Science Technicians",0.0,1.0,0.0,1.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,1,1,1
+Specialist Managers,1.0,0.0,-1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0,1,1
+Clerical and Office Support ,2.0,2.0,1.0,2.0,2.0,0.0,,,,,,,2,0,1
+General Clerical ,1.0,0.0,1.0,1.0,1.0,1.0,-1.0,-1.0,-1.0,1.0,1.0,1.0,0,0,1
+Clerical and Office Support ,,,,,,,-1.0,-1.0,0.0,-1.0,0.0,0.0,-1,-1,-1
+"Engineering, ICT and Science Technicians",2.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Education Professionals,2.0,2.0,1.0,2.0,1.0,-1.0,,,,,,,0,0,-1
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,1.0,2.0,2.0,2.0,-1.0,1.0,2.0,1.0,2.0,0,1,1
+ICT Professionals,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,-1.0,1.0,1.0,1.0,1,1,1
+Sports and Personal Service ,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,2,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0,2.0,1.0,0.0,2,2,2
+General Clerical ,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1,1,1
+ICT Professionals,1.0,2.0,1.0,-1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1,0,1
+Specialist Managers,1.0,0.0,1.0,2.0,0.0,1.0,-1.0,0.0,0.0,-1.0,0.0,1.0,1,1,0
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",0.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0.0,1.0,2.0,1,1,1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,2,2,1
+Sales Assistants and Salespersons,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,-1.0,1.0,1,1,0
+General Clerical ,0.0,2.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+Personal Assistants and Secretaries,2.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,1.0,1.0,-1.0,1.0,2,2,2
+General Clerical ,1.0,2.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,2.0,1.0,2.0,0,1,0
+Specialist Managers,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,2.0,2,1,2
+"Chief Executives, General Managers and Legislators",1.0,1.0,1.0,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2,-1,1
+Education Professionals,2.0,-2.0,2.0,1.0,1.0,1.0,-2.0,-2.0,0.0,-2.0,2.0,2.0,2,1,2
+Specialist Managers,2.0,1.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,-1.0,2.0,2.0,2,2,2
+"Legal, Social and Welfare Professionals",2.0,2.0,1.0,2.0,2.0,2.0,,,,,,,2,2,0
+"Business, Human Resource and Marketing Professionals",-1.0,1.0,0.0,0.0,-1.0,1.0,0.0,0.0,1.0,0.0,1.0,-1.0,-1,0,1
+Specialist Managers,1.0,1.0,2.0,2.0,1.0,1.0,,,,,,,2,0,-1
+Other Clerical and Administrative ,2.0,1.0,1.0,2.0,1.0,1.0,,,,,,,2,0,0
+Office Managers and Program Administrators,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0
+"Business, Human Resource and Marketing Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2,0,0
+Specialist Managers,1.0,1.0,2.0,2.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,2.0,1,2,2
+Sales Assistants and Salespersons,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2,2,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1,1,0
+"Design, Engineering, Science and Transport Professionals",1.0,0.0,1.0,1.0,-1.0,0.0,1.0,1.0,1.0,2.0,1.0,0.0,0,0,0
+Arts and Media Professionals,2.0,0.0,1.0,1.0,-1.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,0,1,1
+Automotive and Engineering Trades ,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,1.0,0.0,-1,0,0
+"Chief Executives, General Managers and Legislators",2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,1.0,2.0,1.0,1.0,,,,,,,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,0
+ICT Professionals,1.0,0.0,2.0,0.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,1,1,2
+"Design, Engineering, Science and Transport Professionals",2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2,2,2
+ICT Professionals,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,2,2,2
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0,0.0,-1.0,1.0,-1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",2.0,1.0,2.0,1.0,1.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2,2,2
+Carers and Aides,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Chief Executives, General Managers and Legislators",0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,2.0,1.0,2,1,2
+"Hospitality, Retail and Service Managers",1.0,-1.0,0.0,2.0,0.0,1.0,-1.0,-1.0,-1.0,1.0,-1.0,1.0,0,1,1
+"Chief Executives, General Managers and Legislators",0.0,1.0,1.0,1.0,2.0,2.0,-1.0,1.0,1.0,0.0,1.0,1.0,-1,-1,-1
+"Legal, Social and Welfare Professionals",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,0,0,0
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,0
+Other Clerical and Administrative ,0.0,1.0,2.0,2.0,1.0,-1.0,-2.0,1.0,2.0,2.0,1.0,-2.0,1,2,1
+Specialist Managers,1.0,1.0,1.0,1.0,1.0,-1.0,-2.0,1.0,-1.0,-1.0,1.0,-1.0,1,1,1
+"Business, Human Resource and Marketing Professionals",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,1
+Specialist Managers,1.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,2,2,1
+"Chief Executives, General Managers and Legislators",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1,1,1
+"Design, Engineering, Science and Transport Professionals",1.0,1.0,1.0,2.0,1.0,2.0,-1.0,1.0,0.0,0.0,1.0,2.0,0,0,2
+Hospitality ,1.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,0.0,0,1,1
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2,2,1
+Construction and Mining Labourers,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,-1.0,2,2,1
+"Chief Executives, General Managers and Legislators",1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,2,1,1
+"Chief Executives, General Managers and Legislators",1.0,-1.0,0.0,1.0,0.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,1,1,0
+"Hospitality, Retail and Service Managers",2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,1,2,2
+Specialist Managers,1.0,1.0,1.0,0.0,-1.0,-1.0,0.0,1.0,-1.0,0.0,-1.0,-1.0,0,0,-1
+"Business, Human Resource and Marketing Professionals",2.0,2.0,1.0,1.0,2.0,2.0,,,,,,,2,2,1
+"Chief Executives, General Managers and Legislators",0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,-1.0,0.0,0.0,1.0,2,1,1
+"Design, Engineering, Science and Transport Professionals",-1.0,1.0,1.0,0.0,0.0,0.0,-1.0,1.0,0.0,-1.0,-1.0,1.0,0,-1,1
+Sales Assistants and Salespersons,0.0,2.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,0,2,2
+Specialist Managers,2.0,-1.0,1.0,2.0,1.0,1.0,,,,,,,-1,1,1
+"Chief Executives, General Managers and Legislators",2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1,2,2
+"Chief Executives, General Managers and Legislators",1.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,2,1,1
+Health and Welfare Support ,2.0,-1.0,2.0,2.0,1.0,1.0,,,,,,,-2,-2,-1
+Other Technicians and Trades ,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1,0,2
+Health Professionals,0.0,0.0,1.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,2.0,0.0,1,0,1
+Farmers and Farm Managers,1.0,1.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1,1,1
+Electrotechnology and Telecommunications Trades ,1.0,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1,0,1
+Specialist Managers,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0,2.0,2,2,2
+"Business, Human Resource and Marketing Professionals",2.0,0.0,2.0,2.0,1.0,1.0,0.0,-1.0,0.0,2.0,1.0,1.0,2,2,-1
+"Engineering, ICT and Science Technicians",1.0,0.0,2.0,2.0,1.0,2.0,0.0,1.0,1.0,2.0,2.0,0.0,0,2,1
+"Chief Executives, General Managers and Legislators",1.0,0.0,0.0,0.0,-1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1,1,2
+Health Professionals,1.0,1.0,0.0,1.0,2.0,-2.0,0.0,0.0,-1.0,1.0,1.0,0.0,0,1,0
+Personal Assistants and Secretaries,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0,1.0,1,2,2
+Specialist Managers,-1.0,1.0,1.0,1.0,1.0,2.0,-2.0,-1.0,-2.0,-2.0,1.0,1.0,-1,-1,-1
